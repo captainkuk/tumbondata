@@ -1,0 +1,5570 @@
+	[
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1001",
+            "DistrictThai": "เขตพระนคร",
+            "DistrictEng": "Khet Phra Nakhon"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1002",
+            "DistrictThai": "เขตดุสิต",
+            "DistrictEng": "Khet Dusit"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1003",
+            "DistrictThai": "เขตหนองจอก",
+            "DistrictEng": "Khet Nong Chok"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1004",
+            "DistrictThai": "เขตบางรัก",
+            "DistrictEng": "Khet Bang Rak"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1005",
+            "DistrictThai": "เขตบางเขน",
+            "DistrictEng": "Khet Bang Khen"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1006",
+            "DistrictThai": "เขตบางกะปิ",
+            "DistrictEng": "Khet Bang Kapi"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1007",
+            "DistrictThai": "เขตปทุมวัน",
+            "DistrictEng": "Khet Pathum Wan"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1008",
+            "DistrictThai": "เขตป้อมปราบศัตรูพ่าย",
+            "DistrictEng": "Khet Pom Prap Sattru Phai"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1009",
+            "DistrictThai": "เขตพระโขนง",
+            "DistrictEng": "Khet Phra Khanong"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1010",
+            "DistrictThai": "เขตมีนบุรี",
+            "DistrictEng": "Khet Min Buri"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1011",
+            "DistrictThai": "เขตลาดกระบัง",
+            "DistrictEng": "Khet Lat Krabang"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1012",
+            "DistrictThai": "เขตยานนาวา",
+            "DistrictEng": "Khet Yan Nawa"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1013",
+            "DistrictThai": "เขตสัมพันธวงศ์",
+            "DistrictEng": "Khet Samphanthawong"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1014",
+            "DistrictThai": "เขตพญาไท",
+            "DistrictEng": "Khet Phaya Thai"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1015",
+            "DistrictThai": "เขตธนบุรี",
+            "DistrictEng": "Khet Thon Buri"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1016",
+            "DistrictThai": "เขตบางกอกใหญ่",
+            "DistrictEng": "Khet Bangkok Yai"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1017",
+            "DistrictThai": "เขตห้วยขวาง",
+            "DistrictEng": "Khet Huai Khwang"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1018",
+            "DistrictThai": "เขตคลองสาน",
+            "DistrictEng": "Khet Khlong San"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1019",
+            "DistrictThai": "เขตตลิ่งชัน",
+            "DistrictEng": "Khet Taling Chan"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1020",
+            "DistrictThai": "เขตบางกอกน้อย",
+            "DistrictEng": "Khet Bangkok Noi"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1021",
+            "DistrictThai": "เขตบางขุนเทียน",
+            "DistrictEng": "Khet Bang Khun Thian"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1022",
+            "DistrictThai": "เขตภาษีเจริญ",
+            "DistrictEng": "Khet Phasi Charoen"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1023",
+            "DistrictThai": "เขตหนองแขม",
+            "DistrictEng": "Khet Nong Khaem"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1024",
+            "DistrictThai": "เขตราษฎร์บูรณะ",
+            "DistrictEng": "Khet Rat Burana"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1025",
+            "DistrictThai": "เขตบางพลัด",
+            "DistrictEng": "Khet Bang Phlat"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1026",
+            "DistrictThai": "เขตดินแดง",
+            "DistrictEng": "Khet Din Daeng"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1027",
+            "DistrictThai": "เขตบึงกุ่ม",
+            "DistrictEng": "Khet Bueng Kum"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1028",
+            "DistrictThai": "เขตสาทร",
+            "DistrictEng": "Khet Sathon"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1029",
+            "DistrictThai": "เขตบางซื่อ",
+            "DistrictEng": "Khet Bang Sue"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1030",
+            "DistrictThai": "เขตจตุจักร",
+            "DistrictEng": "Khet Chatuchak"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1031",
+            "DistrictThai": "เขตบางคอแหลม",
+            "DistrictEng": "Khet Bang Kho Laem"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1032",
+            "DistrictThai": "เขตประเวศ",
+            "DistrictEng": "Khet Prawet"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1033",
+            "DistrictThai": "เขตคลองเตย",
+            "DistrictEng": "Khet Khlong Toei"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1034",
+            "DistrictThai": "เขตสวนหลวง",
+            "DistrictEng": "Khet Suan Luang"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1035",
+            "DistrictThai": "เขตจอมทอง",
+            "DistrictEng": "Khet Chom Thong"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1036",
+            "DistrictThai": "เขตดอนเมือง",
+            "DistrictEng": "Khet Don Mueang"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1037",
+            "DistrictThai": "เขตราชเทวี",
+            "DistrictEng": "Khet Ratchathewi"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1038",
+            "DistrictThai": "เขตลาดพร้าว",
+            "DistrictEng": "Khet Lat Phrao"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1039",
+            "DistrictThai": "เขตวัฒนา",
+            "DistrictEng": "Khet Vadhana"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1040",
+            "DistrictThai": "เขตบางแค",
+            "DistrictEng": "Khet Bang Khae"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1041",
+            "DistrictThai": "เขตหลักสี่",
+            "DistrictEng": "Khet Lak Si"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1042",
+            "DistrictThai": "เขตสายไหม",
+            "DistrictEng": "Khet Sai Mai"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1043",
+            "DistrictThai": "เขตคันนายาว",
+            "DistrictEng": "Khet Khan Na Yao"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1044",
+            "DistrictThai": "เขตสะพานสูง",
+            "DistrictEng": "Khet Saphan Sung"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1045",
+            "DistrictThai": "เขตวังทองหลาง",
+            "DistrictEng": "Khet Wang Thonglang"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1046",
+            "DistrictThai": "เขตคลองสามวา",
+            "DistrictEng": "Khet Khlong Sam Wa"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1047",
+            "DistrictThai": "เขตบางนา",
+            "DistrictEng": "Khet Bang Na"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1048",
+            "DistrictThai": "เขตทวีวัฒนา",
+            "DistrictEng": "Khet Thawi Watthana"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1049",
+            "DistrictThai": "เขตทุ่งครุ",
+            "DistrictEng": "Khet Thung Khru"
+        },
+        {
+            "ProvinceID": "10",
+            "DistrictID": "1050",
+            "DistrictThai": "เขตบางบอน",
+            "DistrictEng": "Khet Bang Bon"
+        },
+        {
+            "ProvinceID": "11",
+            "DistrictID": "1101",
+            "DistrictThai": "อำเภอเมืองสมุทรปราการ",
+            "DistrictEng": "Amphoe Mueang Samut Prakan"
+        },
+        {
+            "ProvinceID": "11",
+            "DistrictID": "1102",
+            "DistrictThai": "อำเภอบางบ่อ",
+            "DistrictEng": "Amphoe Bang Bo"
+        },
+        {
+            "ProvinceID": "11",
+            "DistrictID": "1103",
+            "DistrictThai": "อำเภอบางพลี",
+            "DistrictEng": "Amphoe Bang Phli"
+        },
+        {
+            "ProvinceID": "11",
+            "DistrictID": "1104",
+            "DistrictThai": "อำเภอพระประแดง",
+            "DistrictEng": "Amphoe Phra Pradaeng"
+        },
+        {
+            "ProvinceID": "11",
+            "DistrictID": "1105",
+            "DistrictThai": "อำเภอพระสมุทรเจดีย์",
+            "DistrictEng": "Amphoe Phra Samut Chedi"
+        },
+        {
+            "ProvinceID": "11",
+            "DistrictID": "1106",
+            "DistrictThai": "อำเภอบางเสาธง",
+            "DistrictEng": "Amphoe Bang Sao Thong"
+        },
+        {
+            "ProvinceID": "12",
+            "DistrictID": "1201",
+            "DistrictThai": "อำเภอเมืองนนทบุรี",
+            "DistrictEng": "Amphoe Mueang Nonthaburi"
+        },
+        {
+            "ProvinceID": "12",
+            "DistrictID": "1202",
+            "DistrictThai": "อำเภอบางกรวย",
+            "DistrictEng": "Amphoe Bang Kruai"
+        },
+        {
+            "ProvinceID": "12",
+            "DistrictID": "1203",
+            "DistrictThai": "อำเภอบางใหญ่",
+            "DistrictEng": "Amphoe Bang Yai"
+        },
+        {
+            "ProvinceID": "12",
+            "DistrictID": "1204",
+            "DistrictThai": "อำเภอบางบัวทอง",
+            "DistrictEng": "Amphoe Bang Bua Thong"
+        },
+        {
+            "ProvinceID": "12",
+            "DistrictID": "1205",
+            "DistrictThai": "อำเภอไทรน้อย",
+            "DistrictEng": "Amphoe Sai Noi"
+        },
+        {
+            "ProvinceID": "12",
+            "DistrictID": "1206",
+            "DistrictThai": "อำเภอปากเกร็ด",
+            "DistrictEng": "Amphoe Pak Kret"
+        },
+        {
+            "ProvinceID": "13",
+            "DistrictID": "1301",
+            "DistrictThai": "อำเภอเมืองปทุมธานี",
+            "DistrictEng": "Amphoe Mueang Pathum Thani"
+        },
+        {
+            "ProvinceID": "13",
+            "DistrictID": "1302",
+            "DistrictThai": "อำเภอคลองหลวง",
+            "DistrictEng": "Amphoe Khlong Luang"
+        },
+        {
+            "ProvinceID": "13",
+            "DistrictID": "1303",
+            "DistrictThai": "อำเภอธัญบุรี",
+            "DistrictEng": "Amphoe Thanyaburi"
+        },
+        {
+            "ProvinceID": "13",
+            "DistrictID": "1304",
+            "DistrictThai": "อำเภอหนองเสือ",
+            "DistrictEng": "Amphoe Nong Suea"
+        },
+        {
+            "ProvinceID": "13",
+            "DistrictID": "1305",
+            "DistrictThai": "อำเภอลาดหลุมแก้ว",
+            "DistrictEng": "Amphoe Lat Lum Kaeo"
+        },
+        {
+            "ProvinceID": "13",
+            "DistrictID": "1306",
+            "DistrictThai": "อำเภอลำลูกกา",
+            "DistrictEng": "Amphoe Lam Luk Ka"
+        },
+        {
+            "ProvinceID": "13",
+            "DistrictID": "1307",
+            "DistrictThai": "อำเภอสามโคก",
+            "DistrictEng": "Amphoe Sam Khok"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1401",
+            "DistrictThai": "อำเภอพระนครศรีอยุธยา",
+            "DistrictEng": "Amphoe Phra Nakhon Si Ayutthaya"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1402",
+            "DistrictThai": "อำเภอท่าเรือ",
+            "DistrictEng": "Amphoe Tha Ruea"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1403",
+            "DistrictThai": "อำเภอนครหลวง",
+            "DistrictEng": "Amphoe Nakhon Luang"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1404",
+            "DistrictThai": "อำเภอบางไทร",
+            "DistrictEng": "Amphoe Bang Sai"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1405",
+            "DistrictThai": "อำเภอบางบาล",
+            "DistrictEng": "Amphoe Bang Ban"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1406",
+            "DistrictThai": "อำเภอบางปะอิน",
+            "DistrictEng": "Amphoe Bang Pa-in"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1407",
+            "DistrictThai": "อำเภอบางปะหัน",
+            "DistrictEng": "Amphoe Bang Pahan"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1408",
+            "DistrictThai": "อำเภอผักไห่",
+            "DistrictEng": "Amphoe Phak Hai"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1409",
+            "DistrictThai": "อำเภอภาชี",
+            "DistrictEng": "Amphoe Phachi"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1410",
+            "DistrictThai": "อำเภอลาดบัวหลวง",
+            "DistrictEng": "Amphoe Lat Bua Luang"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1411",
+            "DistrictThai": "อำเภอวังน้อย",
+            "DistrictEng": "Amphoe Wang Noi"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1412",
+            "DistrictThai": "อำเภอเสนา",
+            "DistrictEng": "Amphoe Sena"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1413",
+            "DistrictThai": "อำเภอบางซ้าย",
+            "DistrictEng": "Amphoe Bang Sai"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1414",
+            "DistrictThai": "อำเภออุทัย",
+            "DistrictEng": "Amphoe Uthai"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1415",
+            "DistrictThai": "อำเภอมหาราช",
+            "DistrictEng": "Amphoe Maha Rat"
+        },
+        {
+            "ProvinceID": "14",
+            "DistrictID": "1416",
+            "DistrictThai": "อำเภอบ้านแพรก",
+            "DistrictEng": "Amphoe Ban Phraek"
+        },
+        {
+            "ProvinceID": "15",
+            "DistrictID": "1501",
+            "DistrictThai": "อำเภอเมืองอ่างทอง",
+            "DistrictEng": "Amphoe Mueang Ang Thong"
+        },
+        {
+            "ProvinceID": "15",
+            "DistrictID": "1502",
+            "DistrictThai": "อำเภอไชโย",
+            "DistrictEng": "Amphoe Chaiyo"
+        },
+        {
+            "ProvinceID": "15",
+            "DistrictID": "1503",
+            "DistrictThai": "อำเภอป่าโมก",
+            "DistrictEng": "Amphoe Pa Mok"
+        },
+        {
+            "ProvinceID": "15",
+            "DistrictID": "1504",
+            "DistrictThai": "อำเภอโพธิ์ทอง",
+            "DistrictEng": "Amphoe Pho Thong"
+        },
+        {
+            "ProvinceID": "15",
+            "DistrictID": "1505",
+            "DistrictThai": "อำเภอแสวงหา",
+            "DistrictEng": "Amphoe Sawaeng Ha"
+        },
+        {
+            "ProvinceID": "15",
+            "DistrictID": "1506",
+            "DistrictThai": "อำเภอวิเศษชัยชาญ",
+            "DistrictEng": "Amphoe Wiset Chai Chan"
+        },
+        {
+            "ProvinceID": "15",
+            "DistrictID": "1507",
+            "DistrictThai": "อำเภอสามโก้",
+            "DistrictEng": "Amphoe Samko"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1601",
+            "DistrictThai": "อำเภอเมืองลพบุรี",
+            "DistrictEng": "Amphoe Mueang Lop Buri"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1602",
+            "DistrictThai": "อำเภอพัฒนานิคม",
+            "DistrictEng": "Amphoe Phatthana Nikhom"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1603",
+            "DistrictThai": "อำเภอโคกสำโรง",
+            "DistrictEng": "Amphoe Khok Samrong"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1604",
+            "DistrictThai": "อำเภอชัยบาดาล",
+            "DistrictEng": "Amphoe Chai Badan"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1605",
+            "DistrictThai": "อำเภอท่าวุ้ง",
+            "DistrictEng": "Amphoe Tha Wung"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1606",
+            "DistrictThai": "อำเภอบ้านหมี่",
+            "DistrictEng": "Amphoe Ban Mi"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1607",
+            "DistrictThai": "อำเภอท่าหลวง",
+            "DistrictEng": "Amphoe Tha Luang"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1608",
+            "DistrictThai": "อำเภอสระโบสถ์",
+            "DistrictEng": "Amphoe Sa Bot"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1609",
+            "DistrictThai": "อำเภอโคกเจริญ",
+            "DistrictEng": "Amphoe Khok Charoen"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1610",
+            "DistrictThai": "อำเภอลำสนธิ",
+            "DistrictEng": "Amphoe Lam Sonthi"
+        },
+        {
+            "ProvinceID": "16",
+            "DistrictID": "1611",
+            "DistrictThai": "อำเภอหนองม่วง",
+            "DistrictEng": "Amphoe Nong Muang"
+        },
+        {
+            "ProvinceID": "17",
+            "DistrictID": "1701",
+            "DistrictThai": "อำเภอเมืองสิงห์บุรี",
+            "DistrictEng": "Amphoe Mueang Sing Buri"
+        },
+        {
+            "ProvinceID": "17",
+            "DistrictID": "1702",
+            "DistrictThai": "อำเภอบางระจัน",
+            "DistrictEng": "Amphoe Bang Rachan"
+        },
+        {
+            "ProvinceID": "17",
+            "DistrictID": "1703",
+            "DistrictThai": "อำเภอค่ายบางระจัน",
+            "DistrictEng": "Amphoe Khai Bang Rachan"
+        },
+        {
+            "ProvinceID": "17",
+            "DistrictID": "1704",
+            "DistrictThai": "อำเภอพรหมบุรี",
+            "DistrictEng": "Amphoe Phrom Buri"
+        },
+        {
+            "ProvinceID": "17",
+            "DistrictID": "1705",
+            "DistrictThai": "อำเภอท่าช้าง",
+            "DistrictEng": "Amphoe Tha Chang"
+        },
+        {
+            "ProvinceID": "17",
+            "DistrictID": "1706",
+            "DistrictThai": "อำเภออินทร์บุรี",
+            "DistrictEng": "Amphoe In Buri"
+        },
+        {
+            "ProvinceID": "18",
+            "DistrictID": "1801",
+            "DistrictThai": "อำเภอเมืองชัยนาท",
+            "DistrictEng": "Amphoe Mueang Chai Nat"
+        },
+        {
+            "ProvinceID": "18",
+            "DistrictID": "1802",
+            "DistrictThai": "อำเภอมโนรมย์",
+            "DistrictEng": "Amphoe Manorom"
+        },
+        {
+            "ProvinceID": "18",
+            "DistrictID": "1803",
+            "DistrictThai": "อำเภอวัดสิงห์",
+            "DistrictEng": "Amphoe Wat Sing"
+        },
+        {
+            "ProvinceID": "18",
+            "DistrictID": "1804",
+            "DistrictThai": "อำเภอสรรพยา",
+            "DistrictEng": "Amphoe Sapphaya"
+        },
+        {
+            "ProvinceID": "18",
+            "DistrictID": "1805",
+            "DistrictThai": "อำเภอสรรคบุรี",
+            "DistrictEng": "Amphoe Sankhaburi"
+        },
+        {
+            "ProvinceID": "18",
+            "DistrictID": "1806",
+            "DistrictThai": "อำเภอหันคา",
+            "DistrictEng": "Amphoe Hankha"
+        },
+        {
+            "ProvinceID": "18",
+            "DistrictID": "1807",
+            "DistrictThai": "อำเภอหนองมะโมง",
+            "DistrictEng": "Amphoe Nong Mamong"
+        },
+        {
+            "ProvinceID": "18",
+            "DistrictID": "1808",
+            "DistrictThai": "อำเภอเนินขาม",
+            "DistrictEng": "Amphoe Noen Kham"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1901",
+            "DistrictThai": "อำเภอเมืองสระบุรี",
+            "DistrictEng": "Amphoe Mueang Saraburi"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1902",
+            "DistrictThai": "อำเภอแก่งคอย",
+            "DistrictEng": "Amphoe Kaeng Khoi"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1903",
+            "DistrictThai": "อำเภอหนองแค",
+            "DistrictEng": "Amphoe Nong Khae"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1904",
+            "DistrictThai": "อำเภอวิหารแดง",
+            "DistrictEng": "Amphoe Wihan Daeng"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1905",
+            "DistrictThai": "อำเภอหนองแซง",
+            "DistrictEng": "Amphoe Nong Saeng"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1906",
+            "DistrictThai": "อำเภอบ้านหมอ",
+            "DistrictEng": "Amphoe Ban Mo"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1907",
+            "DistrictThai": "อำเภอดอนพุด",
+            "DistrictEng": "Amphoe Don Phut"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1908",
+            "DistrictThai": "อำเภอหนองโดน",
+            "DistrictEng": "Amphoe Nong Don"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1909",
+            "DistrictThai": "อำเภอพระพุทธบาท",
+            "DistrictEng": "Amphoe Phra Phutthabat"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1910",
+            "DistrictThai": "อำเภอเสาไห้",
+            "DistrictEng": "Amphoe Sao Hai"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1911",
+            "DistrictThai": "อำเภอมวกเหล็ก",
+            "DistrictEng": "Amphoe Muak Lek"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1912",
+            "DistrictThai": "อำเภอวังม่วง",
+            "DistrictEng": "Amphoe Wang Muang"
+        },
+        {
+            "ProvinceID": "19",
+            "DistrictID": "1913",
+            "DistrictThai": "อำเภอเฉลิมพระเกียรติ",
+            "DistrictEng": "Amphoe Chaloem Phra Kiat"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2001",
+            "DistrictThai": "อำเภอเมืองชลบุรี",
+            "DistrictEng": "Amphoe Mueang Chon Buri"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2002",
+            "DistrictThai": "อำเภอบ้านบึง",
+            "DistrictEng": "Amphoe Ban Bueng"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2003",
+            "DistrictThai": "อำเภอหนองใหญ่",
+            "DistrictEng": "Amphoe Nong Yai"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2004",
+            "DistrictThai": "อำเภอบางละมุง",
+            "DistrictEng": "Amphoe Bang Lamung"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2005",
+            "DistrictThai": "อำเภอพานทอง",
+            "DistrictEng": "Amphoe Phan Thong"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2006",
+            "DistrictThai": "อำเภอพนัสนิคม",
+            "DistrictEng": "Amphoe Phanat Nikhom"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2007",
+            "DistrictThai": "อำเภอศรีราชา",
+            "DistrictEng": "Amphoe Si Racha"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2008",
+            "DistrictThai": "อำเภอเกาะสีชัง",
+            "DistrictEng": "Amphoe Ko Sichang"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2009",
+            "DistrictThai": "อำเภอสัตหีบ",
+            "DistrictEng": "Amphoe Sattahip"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2010",
+            "DistrictThai": "อำเภอบ่อทอง",
+            "DistrictEng": "Amphoe Bo Thong"
+        },
+        {
+            "ProvinceID": "20",
+            "DistrictID": "2011",
+            "DistrictThai": "อำเภอเกาะจันทร์",
+            "DistrictEng": "Amphoe Ko Chan"
+        },
+        {
+            "ProvinceID": "21",
+            "DistrictID": "2101",
+            "DistrictThai": "อำเภอเมืองระยอง",
+            "DistrictEng": "Amphoe Mueang Rayong"
+        },
+        {
+            "ProvinceID": "21",
+            "DistrictID": "2102",
+            "DistrictThai": "อำเภอบ้านฉาง",
+            "DistrictEng": "Amphoe Ban Chang"
+        },
+        {
+            "ProvinceID": "21",
+            "DistrictID": "2103",
+            "DistrictThai": "อำเภอแกลง",
+            "DistrictEng": "Amphoe Klaeng"
+        },
+        {
+            "ProvinceID": "21",
+            "DistrictID": "2104",
+            "DistrictThai": "อำเภอวังจันทร์",
+            "DistrictEng": "Amphoe Wang Chan"
+        },
+        {
+            "ProvinceID": "21",
+            "DistrictID": "2105",
+            "DistrictThai": "อำเภอบ้านค่าย",
+            "DistrictEng": "Amphoe Ban Khai"
+        },
+        {
+            "ProvinceID": "21",
+            "DistrictID": "2106",
+            "DistrictThai": "อำเภอปลวกแดง",
+            "DistrictEng": "Amphoe Pluak Daeng"
+        },
+        {
+            "ProvinceID": "21",
+            "DistrictID": "2107",
+            "DistrictThai": "อำเภอเขาชะเมา",
+            "DistrictEng": "Amphoe Khao Chamao"
+        },
+        {
+            "ProvinceID": "21",
+            "DistrictID": "2108",
+            "DistrictThai": "อำเภอนิคมพัฒนา",
+            "DistrictEng": "Amphoe Nikhom Phatthana"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2201",
+            "DistrictThai": "อำเภอเมืองจันทบุรี",
+            "DistrictEng": "Amphoe Mueang Chanthaburi"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2202",
+            "DistrictThai": "อำเภอขลุง",
+            "DistrictEng": "Amphoe Khlung"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2203",
+            "DistrictThai": "อำเภอท่าใหม่",
+            "DistrictEng": "Amphoe Tha Mai"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2204",
+            "DistrictThai": "อำเภอโป่งน้ำร้อน",
+            "DistrictEng": "Amphoe Pong Nam Ron"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2205",
+            "DistrictThai": "อำเภอมะขาม",
+            "DistrictEng": "Amphoe Makham"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2206",
+            "DistrictThai": "อำเภอแหลมสิงห์",
+            "DistrictEng": "Amphoe Laem Sing"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2207",
+            "DistrictThai": "อำเภอสอยดาว",
+            "DistrictEng": "Amphoe Soi Dao"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2208",
+            "DistrictThai": "อำเภอแก่งหางแมว",
+            "DistrictEng": "Amphoe Kaeng Hang Maeo"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2209",
+            "DistrictThai": "อำเภอนายายอาม",
+            "DistrictEng": "Amphoe Na Yai Am"
+        },
+        {
+            "ProvinceID": "22",
+            "DistrictID": "2210",
+            "DistrictThai": "อำเภอเขาคิชฌกูฏ",
+            "DistrictEng": "Amphoe Khao Khitchakut"
+        },
+        {
+            "ProvinceID": "23",
+            "DistrictID": "2301",
+            "DistrictThai": "อำเภอเมืองตราด",
+            "DistrictEng": "Amphoe Mueang Trat"
+        },
+        {
+            "ProvinceID": "23",
+            "DistrictID": "2302",
+            "DistrictThai": "อำเภอคลองใหญ่",
+            "DistrictEng": "Amphoe Khlong Yai"
+        },
+        {
+            "ProvinceID": "23",
+            "DistrictID": "2303",
+            "DistrictThai": "อำเภอเขาสมิง",
+            "DistrictEng": "Amphoe Khao Saming"
+        },
+        {
+            "ProvinceID": "23",
+            "DistrictID": "2304",
+            "DistrictThai": "อำเภอบ่อไร่",
+            "DistrictEng": "Amphoe Bo Rai"
+        },
+        {
+            "ProvinceID": "23",
+            "DistrictID": "2305",
+            "DistrictThai": "อำเภอแหลมงอบ",
+            "DistrictEng": "Amphoe Laem Ngop"
+        },
+        {
+            "ProvinceID": "23",
+            "DistrictID": "2306",
+            "DistrictThai": "อำเภอเกาะกูด",
+            "DistrictEng": "Amphoe Ko Kut"
+        },
+        {
+            "ProvinceID": "23",
+            "DistrictID": "2307",
+            "DistrictThai": "อำเภอเกาะช้าง",
+            "DistrictEng": "Amphoe Ko Chang"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2401",
+            "DistrictThai": "อำเภอเมืองฉะเชิงเทรา",
+            "DistrictEng": "Amphoe Mueang Chachoengsao"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2402",
+            "DistrictThai": "อำเภอบางคล้า",
+            "DistrictEng": "Amphoe Bang Khla"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2403",
+            "DistrictThai": "อำเภอบางน้ำเปรี้ยว",
+            "DistrictEng": "Amphoe Bang Nam Priao"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2404",
+            "DistrictThai": "อำเภอบางปะกง",
+            "DistrictEng": "Amphoe Bang Pakong"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2405",
+            "DistrictThai": "อำเภอบ้านโพธิ์",
+            "DistrictEng": "Amphoe Ban Pho"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2406",
+            "DistrictThai": "อำเภอพนมสารคาม",
+            "DistrictEng": "Amphoe Phanom Sarakham"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2407",
+            "DistrictThai": "อำเภอราชสาส์น",
+            "DistrictEng": "Amphoe Ratchasan"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2408",
+            "DistrictThai": "อำเภอสนามชัยเขต",
+            "DistrictEng": "Amphoe Sanam Chai Khet"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2409",
+            "DistrictThai": "อำเภอแปลงยาว",
+            "DistrictEng": "Amphoe Plaeng Yao"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2410",
+            "DistrictThai": "อำเภอท่าตะเกียบ",
+            "DistrictEng": "Amphoe Tha Takiap"
+        },
+        {
+            "ProvinceID": "24",
+            "DistrictID": "2411",
+            "DistrictThai": "อำเภอคลองเขื่อน",
+            "DistrictEng": "Amphoe Khlong Khuean"
+        },
+        {
+            "ProvinceID": "25",
+            "DistrictID": "2501",
+            "DistrictThai": "อำเภอเมืองปราจีนบุรี",
+            "DistrictEng": "Amphoe Mueang Prachin Buri"
+        },
+        {
+            "ProvinceID": "25",
+            "DistrictID": "2502",
+            "DistrictThai": "อำเภอกบินทร์บุรี",
+            "DistrictEng": "Amphoe Kabin Buri"
+        },
+        {
+            "ProvinceID": "25",
+            "DistrictID": "2503",
+            "DistrictThai": "อำเภอนาดี",
+            "DistrictEng": "Amphoe Na Di"
+        },
+        {
+            "ProvinceID": "25",
+            "DistrictID": "2506",
+            "DistrictThai": "อำเภอบ้านสร้าง",
+            "DistrictEng": "Amphoe Ban Sang"
+        },
+        {
+            "ProvinceID": "25",
+            "DistrictID": "2507",
+            "DistrictThai": "อำเภอประจันตคาม",
+            "DistrictEng": "Amphoe Prachantakham"
+        },
+        {
+            "ProvinceID": "25",
+            "DistrictID": "2508",
+            "DistrictThai": "อำเภอศรีมหาโพธิ",
+            "DistrictEng": "Amphoe Si Maha Phot"
+        },
+        {
+            "ProvinceID": "25",
+            "DistrictID": "2509",
+            "DistrictThai": "อำเภอศรีมโหสถ",
+            "DistrictEng": "Amphoe Si Mahosot"
+        },
+        {
+            "ProvinceID": "26",
+            "DistrictID": "2601",
+            "DistrictThai": "อำเภอเมืองนครนายก",
+            "DistrictEng": "Amphoe Mueang Nakhon Nayok"
+        },
+        {
+            "ProvinceID": "26",
+            "DistrictID": "2602",
+            "DistrictThai": "อำเภอปากพลี",
+            "DistrictEng": "Amphoe Pak Phli"
+        },
+        {
+            "ProvinceID": "26",
+            "DistrictID": "2603",
+            "DistrictThai": "อำเภอบ้านนา",
+            "DistrictEng": "Amphoe Ban Na"
+        },
+        {
+            "ProvinceID": "26",
+            "DistrictID": "2604",
+            "DistrictThai": "อำเภอองครักษ์",
+            "DistrictEng": "Amphoe Ongkharak"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2701",
+            "DistrictThai": "อำเภอเมืองสระแก้ว",
+            "DistrictEng": "Amphoe Mueang Sa Kaeo"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2702",
+            "DistrictThai": "อำเภอคลองหาด",
+            "DistrictEng": "Amphoe Khlong Hat"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2703",
+            "DistrictThai": "อำเภอตาพระยา",
+            "DistrictEng": "Amphoe Ta Phraya"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2704",
+            "DistrictThai": "อำเภอวังน้ำเย็น",
+            "DistrictEng": "Amphoe Wang Nam Yen"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2705",
+            "DistrictThai": "อำเภอวัฒนานคร",
+            "DistrictEng": "Amphoe Watthana Nakhon"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2706",
+            "DistrictThai": "อำเภออรัญประเทศ",
+            "DistrictEng": "Amphoe Aranyaprathet"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2707",
+            "DistrictThai": "อำเภอเขาฉกรรจ์",
+            "DistrictEng": "Amphoe Khao Chakan"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2708",
+            "DistrictThai": "อำเภอโคกสูง",
+            "DistrictEng": "Amphoe Khok Sung"
+        },
+        {
+            "ProvinceID": "27",
+            "DistrictID": "2709",
+            "DistrictThai": "อำเภอวังสมบูรณ์",
+            "DistrictEng": "Amphoe Wang Sombun"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3001",
+            "DistrictThai": "อำเภอเมืองนครราชสีมา",
+            "DistrictEng": "Amphoe Mueang Nakhon Ratchasima"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3002",
+            "DistrictThai": "อำเภอครบุรี",
+            "DistrictEng": "Amphoe Khon Buri"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3003",
+            "DistrictThai": "อำเภอเสิงสาง",
+            "DistrictEng": "Amphoe Soeng Sang"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3004",
+            "DistrictThai": "อำเภอคง",
+            "DistrictEng": "Amphoe Khong"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3005",
+            "DistrictThai": "อำเภอบ้านเหลื่อม",
+            "DistrictEng": "Amphoe Ban Lueam"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3006",
+            "DistrictThai": "อำเภอจักราช",
+            "DistrictEng": "Amphoe Chakkarat"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3007",
+            "DistrictThai": "อำเภอโชคชัย",
+            "DistrictEng": "Amphoe Chok Chai"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3008",
+            "DistrictThai": "อำเภอด่านขุนทด",
+            "DistrictEng": "Amphoe Dan Khun Thot"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3009",
+            "DistrictThai": "อำเภอโนนไทย",
+            "DistrictEng": "Amphoe Non Thai"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3010",
+            "DistrictThai": "อำเภอโนนสูง",
+            "DistrictEng": "Amphoe Non Sung"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3011",
+            "DistrictThai": "อำเภอขามสะแกแสง",
+            "DistrictEng": "Amphoe Kham Sakaesaeng"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3012",
+            "DistrictThai": "อำเภอบัวใหญ่",
+            "DistrictEng": "Amphoe Bua Yai"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3013",
+            "DistrictThai": "อำเภอประทาย",
+            "DistrictEng": "Amphoe Prathai"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3014",
+            "DistrictThai": "อำเภอปักธงชัย",
+            "DistrictEng": "Amphoe Pak Thong Chai"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3015",
+            "DistrictThai": "อำเภอพิมาย",
+            "DistrictEng": "Amphoe Phimai"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3016",
+            "DistrictThai": "อำเภอห้วยแถลง",
+            "DistrictEng": "Amphoe Huai Thalaeng"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3017",
+            "DistrictThai": "อำเภอชุมพวง",
+            "DistrictEng": "Amphoe Chum Phuang"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3018",
+            "DistrictThai": "อำเภอสูงเนิน",
+            "DistrictEng": "Amphoe Sung Noen"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3019",
+            "DistrictThai": "อำเภอขามทะเลสอ",
+            "DistrictEng": "Amphoe Kham Thale So"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3020",
+            "DistrictThai": "อำเภอสีคิ้ว",
+            "DistrictEng": "Amphoe Sikhio"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3021",
+            "DistrictThai": "อำเภอปากช่อง",
+            "DistrictEng": "Amphoe Pak Chong"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3022",
+            "DistrictThai": "อำเภอหนองบุญมาก",
+            "DistrictEng": "Amphoe Nong Bunmak"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3023",
+            "DistrictThai": "อำเภอแก้งสนามนาง",
+            "DistrictEng": "Amphoe Kaeng Sanam Nang"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3024",
+            "DistrictThai": "อำเภอโนนแดง",
+            "DistrictEng": "Amphoe Non Daeng"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3025",
+            "DistrictThai": "อำเภอวังน้ำเขียว",
+            "DistrictEng": "Amphoe Wang Nam Khiao"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3026",
+            "DistrictThai": "อำเภอเทพารักษ์",
+            "DistrictEng": "Amphoe Thepharak"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3027",
+            "DistrictThai": "อำเภอเมืองยาง",
+            "DistrictEng": "Amphoe Mueang Yang"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3028",
+            "DistrictThai": "อำเภอพระทองคำ",
+            "DistrictEng": "Amphoe Phra Thong Kham"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3029",
+            "DistrictThai": "อำเภอลำทะเมนชัย",
+            "DistrictEng": "Amphoe Lam Thamenchai"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3030",
+            "DistrictThai": "อำเภอบัวลาย",
+            "DistrictEng": "Amphoe Bua Lai"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3031",
+            "DistrictThai": "อำเภอสีดา",
+            "DistrictEng": "Amphoe Sida"
+        },
+        {
+            "ProvinceID": "30",
+            "DistrictID": "3032",
+            "DistrictThai": "อำเภอเฉลิมพระเกียรติ",
+            "DistrictEng": "Amphoe Chaloem Phra Kiat"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3101",
+            "DistrictThai": "อำเภอเมืองบุรีรัมย์",
+            "DistrictEng": "Amphoe Mueang Buri Ram"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3102",
+            "DistrictThai": "อำเภอคูเมือง",
+            "DistrictEng": "Amphoe Khu Mueang"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3103",
+            "DistrictThai": "อำเภอกระสัง",
+            "DistrictEng": "Amphoe Krasang"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3104",
+            "DistrictThai": "อำเภอนางรอง",
+            "DistrictEng": "Amphoe Nang Rong"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3105",
+            "DistrictThai": "อำเภอหนองกี่",
+            "DistrictEng": "Amphoe Nong Ki"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3106",
+            "DistrictThai": "อำเภอละหานทราย",
+            "DistrictEng": "Amphoe Lahan Sai"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3107",
+            "DistrictThai": "อำเภอประโคนชัย",
+            "DistrictEng": "Amphoe Prakhon Chai"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3108",
+            "DistrictThai": "อำเภอบ้านกรวด",
+            "DistrictEng": "Amphoe Ban Kruat"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3109",
+            "DistrictThai": "อำเภอพุทไธสง",
+            "DistrictEng": "Amphoe Phutthaisong"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3110",
+            "DistrictThai": "อำเภอลำปลายมาศ",
+            "DistrictEng": "Amphoe Lam Plai Mat"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3111",
+            "DistrictThai": "อำเภอสตึก",
+            "DistrictEng": "Amphoe Satuek"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3112",
+            "DistrictThai": "อำเภอปะคำ",
+            "DistrictEng": "Amphoe Pakham"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3113",
+            "DistrictThai": "อำเภอนาโพธิ์",
+            "DistrictEng": "Amphoe Na Pho"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3114",
+            "DistrictThai": "อำเภอหนองหงส์",
+            "DistrictEng": "Amphoe Nong Hong"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3115",
+            "DistrictThai": "อำเภอพลับพลาชัย",
+            "DistrictEng": "Amphoe Phlapphla Chai"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3116",
+            "DistrictThai": "อำเภอห้วยราช",
+            "DistrictEng": "Amphoe Huai Rat"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3117",
+            "DistrictThai": "อำเภอโนนสุวรรณ",
+            "DistrictEng": "Amphoe Non Suwan"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3118",
+            "DistrictThai": "อำเภอชำนิ",
+            "DistrictEng": "Amphoe Chamni"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3119",
+            "DistrictThai": "อำเภอบ้านใหม่ไชยพจน์",
+            "DistrictEng": "Amphoe Ban Mai Chaiyaphot"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3120",
+            "DistrictThai": "อำเภอโนนดินแดง",
+            "DistrictEng": "Amphoe Non Din Daeng"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3121",
+            "DistrictThai": "อำเภอบ้านด่าน",
+            "DistrictEng": "Amphoe Ban Dan"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3122",
+            "DistrictThai": "อำเภอแคนดง",
+            "DistrictEng": "Amphoe Khaen Dong"
+        },
+        {
+            "ProvinceID": "31",
+            "DistrictID": "3123",
+            "DistrictThai": "อำเภอเฉลิมพระเกียรติ",
+            "DistrictEng": "Amphoe Chaloem Phra Kiat"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3201",
+            "DistrictThai": "อำเภอเมืองสุรินทร์",
+            "DistrictEng": "Amphoe Mueang Surin"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3202",
+            "DistrictThai": "อำเภอชุมพลบุรี",
+            "DistrictEng": "Amphoe Chumphon Buri"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3203",
+            "DistrictThai": "อำเภอท่าตูม",
+            "DistrictEng": "Amphoe Tha Tum"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3204",
+            "DistrictThai": "อำเภอจอมพระ",
+            "DistrictEng": "Amphoe Chom Phra"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3205",
+            "DistrictThai": "อำเภอปราสาท",
+            "DistrictEng": "Amphoe Prasat"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3206",
+            "DistrictThai": "อำเภอกาบเชิง",
+            "DistrictEng": "Amphoe Kap Choeng"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3207",
+            "DistrictThai": "อำเภอรัตนบุรี",
+            "DistrictEng": "Amphoe Rattanaburi"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3208",
+            "DistrictThai": "อำเภอสนม",
+            "DistrictEng": "Amphoe Sanom"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3209",
+            "DistrictThai": "อำเภอศีขรภูมิ",
+            "DistrictEng": "Amphoe Sikhoraphum"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3210",
+            "DistrictThai": "อำเภอสังขะ",
+            "DistrictEng": "Amphoe Sangkha"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3211",
+            "DistrictThai": "อำเภอลำดวน",
+            "DistrictEng": "Amphoe Lamduan"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3212",
+            "DistrictThai": "อำเภอสำโรงทาบ",
+            "DistrictEng": "Amphoe Samrong Thap"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3213",
+            "DistrictThai": "อำเภอบัวเชด",
+            "DistrictEng": "Amphoe Buachet"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3214",
+            "DistrictThai": "อำเภอพนมดงรัก",
+            "DistrictEng": "Amphoe Phanom Dong Rak"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3215",
+            "DistrictThai": "อำเภอศรีณรงค์",
+            "DistrictEng": "Amphoe Si Narong"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3216",
+            "DistrictThai": "อำเภอเขวาสินรินทร์",
+            "DistrictEng": "Amphoe Khwao Sinrin"
+        },
+        {
+            "ProvinceID": "32",
+            "DistrictID": "3217",
+            "DistrictThai": "อำเภอโนนนารายณ์",
+            "DistrictEng": "Amphoe Non Narai"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3301",
+            "DistrictThai": "อำเภอเมืองศรีสะเกษ",
+            "DistrictEng": "Amphoe Mueang Si Sa Ket"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3302",
+            "DistrictThai": "อำเภอยางชุมน้อย",
+            "DistrictEng": "Amphoe Yang Chum Noi"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3303",
+            "DistrictThai": "อำเภอกันทรารมย์",
+            "DistrictEng": "Amphoe Kanthararom"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3304",
+            "DistrictThai": "อำเภอกันทรลักษ์",
+            "DistrictEng": "Amphoe Kantharalak"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3305",
+            "DistrictThai": "อำเภอขุขันธ์",
+            "DistrictEng": "Amphoe Khukhan"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3306",
+            "DistrictThai": "อำเภอไพรบึง",
+            "DistrictEng": "Amphoe Phrai Bueng"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3307",
+            "DistrictThai": "อำเภอปรางค์กู่",
+            "DistrictEng": "Amphoe Prang Ku"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3308",
+            "DistrictThai": "อำเภอขุนหาญ",
+            "DistrictEng": "Amphoe Khun Han"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3309",
+            "DistrictThai": "อำเภอราษีไศล",
+            "DistrictEng": "Amphoe Rasi Salai"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3310",
+            "DistrictThai": "อำเภออุทุมพรพิสัย",
+            "DistrictEng": "Amphoe Uthumphon Phisai"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3311",
+            "DistrictThai": "อำเภอบึงบูรพ์",
+            "DistrictEng": "Amphoe Bueng Bun"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3312",
+            "DistrictThai": "อำเภอห้วยทับทัน",
+            "DistrictEng": "Amphoe Huai Thap Than"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3313",
+            "DistrictThai": "อำเภอโนนคูณ",
+            "DistrictEng": "Amphoe Non Khun"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3314",
+            "DistrictThai": "อำเภอศรีรัตนะ",
+            "DistrictEng": "Amphoe Si Rattana"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3315",
+            "DistrictThai": "อำเภอน้ำเกลี้ยง",
+            "DistrictEng": "Amphoe Nam Kliang"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3316",
+            "DistrictThai": "อำเภอวังหิน",
+            "DistrictEng": "Amphoe Wang Hin"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3317",
+            "DistrictThai": "อำเภอภูสิงห์",
+            "DistrictEng": "Amphoe Phu Sing"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3318",
+            "DistrictThai": "อำเภอเมืองจันทร์",
+            "DistrictEng": "Amphoe Mueang Chan"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3319",
+            "DistrictThai": "อำเภอเบญจลักษ์",
+            "DistrictEng": "Amphoe Benchalak"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3320",
+            "DistrictThai": "อำเภอพยุห์",
+            "DistrictEng": "Amphoe Phayu"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3321",
+            "DistrictThai": "อำเภอโพธิ์ศรีสุวรรณ",
+            "DistrictEng": "Amphoe Pho Si Suwan"
+        },
+        {
+            "ProvinceID": "33",
+            "DistrictID": "3322",
+            "DistrictThai": "อำเภอศิลาลาด",
+            "DistrictEng": "Amphoe Sila Lat"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3401",
+            "DistrictThai": "อำเภอเมืองอุบลราชธานี",
+            "DistrictEng": "Amphoe Mueang Ubon Ratchathani"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3402",
+            "DistrictThai": "อำเภอศรีเมืองใหม่",
+            "DistrictEng": "Amphoe Si Mueang Mai"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3403",
+            "DistrictThai": "อำเภอโขงเจียม",
+            "DistrictEng": "Amphoe Khong Chiam"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3404",
+            "DistrictThai": "อำเภอเขื่องใน",
+            "DistrictEng": "Amphoe Khueang Nai"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3405",
+            "DistrictThai": "อำเภอเขมราฐ",
+            "DistrictEng": "Amphoe Khemarat"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3407",
+            "DistrictThai": "อำเภอเดชอุดม",
+            "DistrictEng": "Amphoe Det Udom"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3408",
+            "DistrictThai": "อำเภอนาจะหลวย",
+            "DistrictEng": "Amphoe Na Chaluai"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3409",
+            "DistrictThai": "อำเภอน้ำยืน",
+            "DistrictEng": "Amphoe Nam Yuen"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3410",
+            "DistrictThai": "อำเภอบุณฑริก",
+            "DistrictEng": "Amphoe Buntharik"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3411",
+            "DistrictThai": "อำเภอตระการพืชผล",
+            "DistrictEng": "Amphoe Trakan Phuet Phon"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3412",
+            "DistrictThai": "อำเภอกุดข้าวปุ้น",
+            "DistrictEng": "Amphoe Kut Khaopun"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3414",
+            "DistrictThai": "อำเภอม่วงสามสิบ",
+            "DistrictEng": "Amphoe Muang Sam Sip"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3415",
+            "DistrictThai": "อำเภอวารินชำราบ",
+            "DistrictEng": "Amphoe Warin Chamrap"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3419",
+            "DistrictThai": "อำเภอพิบูลมังสาหาร",
+            "DistrictEng": "Amphoe Phibun Mangsahan"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3420",
+            "DistrictThai": "อำเภอตาลสุม",
+            "DistrictEng": "Amphoe Tan Sum"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3421",
+            "DistrictThai": "อำเภอโพธิ์ไทร",
+            "DistrictEng": "Amphoe Pho Sai"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3422",
+            "DistrictThai": "อำเภอสำโรง",
+            "DistrictEng": "Amphoe Samrong"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3424",
+            "DistrictThai": "อำเภอดอนมดแดง",
+            "DistrictEng": "Amphoe Don Mot Daeng"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3425",
+            "DistrictThai": "อำเภอสิรินธร",
+            "DistrictEng": "Amphoe Sirindhorn"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3426",
+            "DistrictThai": "อำเภอทุ่งศรีอุดม",
+            "DistrictEng": "Amphoe Thung Si Udom"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3429",
+            "DistrictThai": "อำเภอนาเยีย",
+            "DistrictEng": "Amphoe Na Yia"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3430",
+            "DistrictThai": "อำเภอนาตาล",
+            "DistrictEng": "Amphoe Na Tan"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3431",
+            "DistrictThai": "อำเภอเหล่าเสือโก้ก",
+            "DistrictEng": "Fang Kham"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3432",
+            "DistrictThai": "อำเภอสว่างวีระวงศ์",
+            "DistrictEng": "Amphoe Sawang Wirawong"
+        },
+        {
+            "ProvinceID": "34",
+            "DistrictID": "3433",
+            "DistrictThai": "อำเภอน้ำขุ่น",
+            "DistrictEng": "Amphoe Nam Khun"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3501",
+            "DistrictThai": "อำเภอเมืองยโสธร",
+            "DistrictEng": "Amphoe Mueang Yasothon"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3502",
+            "DistrictThai": "อำเภอทรายมูล",
+            "DistrictEng": "Amphoe Sai Mun"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3503",
+            "DistrictThai": "อำเภอกุดชุม",
+            "DistrictEng": "Amphoe Kut Chum"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3504",
+            "DistrictThai": "อำเภอคำเขื่อนแก้ว",
+            "DistrictEng": "Amphoe Kham Khuean Kaeo"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3505",
+            "DistrictThai": "อำเภอป่าติ้ว",
+            "DistrictEng": "Amphoe Pa Tio"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3506",
+            "DistrictThai": "อำเภอมหาชนะชัย",
+            "DistrictEng": "Amphoe Maha Chana Chai"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3507",
+            "DistrictThai": "อำเภอค้อวัง",
+            "DistrictEng": "Amphoe Kho Wang"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3508",
+            "DistrictThai": "อำเภอเลิงนกทา",
+            "DistrictEng": "Amphoe Loeng Nok Tha"
+        },
+        {
+            "ProvinceID": "35",
+            "DistrictID": "3509",
+            "DistrictThai": "อำเภอไทยเจริญ",
+            "DistrictEng": "Amphoe Thai Charoen"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3601",
+            "DistrictThai": "อำเภอเมืองชัยภูมิ",
+            "DistrictEng": "Amphoe Mueang Chaiyaphum"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3602",
+            "DistrictThai": "อำเภอบ้านเขว้า",
+            "DistrictEng": "Amphoe Ban Khwao"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3603",
+            "DistrictThai": "อำเภอคอนสวรรค์",
+            "DistrictEng": "Amphoe Khon Sawan"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3604",
+            "DistrictThai": "อำเภอเกษตรสมบูรณ์",
+            "DistrictEng": "Amphoe Kaset Sombun"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3605",
+            "DistrictThai": "อำเภอหนองบัวแดง",
+            "DistrictEng": "Amphoe Nong Bua Daeng"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3606",
+            "DistrictThai": "อำเภอจัตุรัส",
+            "DistrictEng": "Amphoe Chatturat"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3607",
+            "DistrictThai": "อำเภอบำเหน็จณรงค์",
+            "DistrictEng": "Amphoe Bamnet Narong"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3608",
+            "DistrictThai": "อำเภอหนองบัวระเหว",
+            "DistrictEng": "Amphoe Nong Bua Rawe"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3609",
+            "DistrictThai": "อำเภอเทพสถิต",
+            "DistrictEng": "Amphoe Thep Sathit"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3610",
+            "DistrictThai": "อำเภอภูเขียว",
+            "DistrictEng": "Amphoe Phu Khiao"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3611",
+            "DistrictThai": "อำเภอบ้านแท่น",
+            "DistrictEng": "Amphoe Ban Thaen"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3612",
+            "DistrictThai": "อำเภอแก้งคร้อ",
+            "DistrictEng": "Amphoe Kaeng Khro"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3613",
+            "DistrictThai": "อำเภอคอนสาร",
+            "DistrictEng": "Amphoe Khon San"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3614",
+            "DistrictThai": "อำเภอภักดีชุมพล",
+            "DistrictEng": "Amphoe Phakdi Chumphon"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3615",
+            "DistrictThai": "อำเภอเนินสง่า",
+            "DistrictEng": "Amphoe Noen Sa-nga"
+        },
+        {
+            "ProvinceID": "36",
+            "DistrictID": "3616",
+            "DistrictThai": "อำเภอซับใหญ่",
+            "DistrictEng": "Amphoe Sap Yai"
+        },
+        {
+            "ProvinceID": "37",
+            "DistrictID": "3701",
+            "DistrictThai": "อำเภอเมืองอำนาจเจริญ",
+            "DistrictEng": "Amphoe Mueang Amnat Charoen"
+        },
+        {
+            "ProvinceID": "37",
+            "DistrictID": "3702",
+            "DistrictThai": "อำเภอชานุมาน",
+            "DistrictEng": "Amphoe Chanuman"
+        },
+        {
+            "ProvinceID": "37",
+            "DistrictID": "3703",
+            "DistrictThai": "อำเภอปทุมราชวงศา",
+            "DistrictEng": "Amphoe Pathum Ratchawongsa"
+        },
+        {
+            "ProvinceID": "37",
+            "DistrictID": "3704",
+            "DistrictThai": "อำเภอพนา",
+            "DistrictEng": "Amphoe Phana"
+        },
+        {
+            "ProvinceID": "37",
+            "DistrictID": "3705",
+            "DistrictThai": "อำเภอเสนางคนิคม",
+            "DistrictEng": "Amphoe Senangkhanikhom"
+        },
+        {
+            "ProvinceID": "37",
+            "DistrictID": "3706",
+            "DistrictThai": "อำเภอหัวตะพาน",
+            "DistrictEng": "Amphoe Hua Taphan"
+        },
+        {
+            "ProvinceID": "37",
+            "DistrictID": "3707",
+            "DistrictThai": "อำเภอลืออำนาจ",
+            "DistrictEng": "Amphoe Lue Amnat"
+        },
+        {
+            "ProvinceID": "38",
+            "DistrictID": "3801",
+            "DistrictThai": "อำเภอเมืองบึงกาฬ",
+            "DistrictEng": "Amphoe Mueang Bueng Kan"
+        },
+        {
+            "ProvinceID": "38",
+            "DistrictID": "3802",
+            "DistrictThai": "อำเภอพรเจริญ",
+            "DistrictEng": "Amphoe Phon Charoen"
+        },
+        {
+            "ProvinceID": "38",
+            "DistrictID": "3803",
+            "DistrictThai": "อำเภอโซ่พิสัย",
+            "DistrictEng": "Amphoe So Phisai"
+        },
+        {
+            "ProvinceID": "38",
+            "DistrictID": "3804",
+            "DistrictThai": "อำเภอเซกา",
+            "DistrictEng": "Amphoe Seka"
+        },
+        {
+            "ProvinceID": "38",
+            "DistrictID": "3805",
+            "DistrictThai": "อำเภอปากคาด",
+            "DistrictEng": "Amphoe Pak Khat"
+        },
+        {
+            "ProvinceID": "38",
+            "DistrictID": "3806",
+            "DistrictThai": "อำเภอบึงโขงหลง",
+            "DistrictEng": "Amphoe Bueng Khong Long"
+        },
+        {
+            "ProvinceID": "38",
+            "DistrictID": "3807",
+            "DistrictThai": "อำเภอศรีวิไล",
+            "DistrictEng": "Amphoe Si Wilai"
+        },
+        {
+            "ProvinceID": "38",
+            "DistrictID": "3808",
+            "DistrictThai": "อำเภอบุ่งคล้า",
+            "DistrictEng": "Amphoe Bung Khla"
+        },
+        {
+            "ProvinceID": "39",
+            "DistrictID": "3901",
+            "DistrictThai": "อำเภอเมืองหนองบัวลำภู",
+            "DistrictEng": "Amphoe Mueang Nong Bua Lam Phu"
+        },
+        {
+            "ProvinceID": "39",
+            "DistrictID": "3902",
+            "DistrictThai": "อำเภอนากลาง",
+            "DistrictEng": "Amphoe Na Klang"
+        },
+        {
+            "ProvinceID": "39",
+            "DistrictID": "3903",
+            "DistrictThai": "อำเภอโนนสัง",
+            "DistrictEng": "Amphoe Non Sang"
+        },
+        {
+            "ProvinceID": "39",
+            "DistrictID": "3904",
+            "DistrictThai": "อำเภอศรีบุญเรือง",
+            "DistrictEng": "Amphoe Si Bun Rueang"
+        },
+        {
+            "ProvinceID": "39",
+            "DistrictID": "3905",
+            "DistrictThai": "อำเภอสุวรรณคูหา",
+            "DistrictEng": "Amphoe Suwannakhuha"
+        },
+        {
+            "ProvinceID": "39",
+            "DistrictID": "3906",
+            "DistrictThai": "อำเภอนาวัง",
+            "DistrictEng": "Amphoe Na Wang"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4001",
+            "DistrictThai": "อำเภอเมืองขอนแก่น",
+            "DistrictEng": "Amphoe Mueang Khon Kaen"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4002",
+            "DistrictThai": "อำเภอบ้านฝาง",
+            "DistrictEng": "Amphoe Ban Fang"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4003",
+            "DistrictThai": "อำเภอพระยืน",
+            "DistrictEng": "Amphoe Phra Yuen"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4004",
+            "DistrictThai": "อำเภอหนองเรือ",
+            "DistrictEng": "Amphoe Nong Ruea"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4005",
+            "DistrictThai": "อำเภอชุมแพ",
+            "DistrictEng": "Amphoe Chum Phae"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4006",
+            "DistrictThai": "อำเภอสีชมพู",
+            "DistrictEng": "Amphoe Si Chomphu"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4007",
+            "DistrictThai": "อำเภอน้ำพอง",
+            "DistrictEng": "Amphoe Nam Phong"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4008",
+            "DistrictThai": "อำเภออุบลรัตน์",
+            "DistrictEng": "Amphoe Ubolratana"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4009",
+            "DistrictThai": "อำเภอกระนวน",
+            "DistrictEng": "Amphoe Kranuan"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4010",
+            "DistrictThai": "อำเภอบ้านไผ่",
+            "DistrictEng": "Amphoe Ban Phai"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4011",
+            "DistrictThai": "อำเภอเปือยน้อย",
+            "DistrictEng": "Amphoe Pueai Noi"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4012",
+            "DistrictThai": "อำเภอพล",
+            "DistrictEng": "Amphoe Phon"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4013",
+            "DistrictThai": "อำเภอแวงใหญ่",
+            "DistrictEng": "Amphoe Waeng Yai"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4014",
+            "DistrictThai": "อำเภอแวงน้อย",
+            "DistrictEng": "Amphoe Waeng Noi"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4015",
+            "DistrictThai": "อำเภอหนองสองห้อง",
+            "DistrictEng": "Amphoe Nong Song Hong"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4016",
+            "DistrictThai": "อำเภอภูเวียง",
+            "DistrictEng": "Amphoe Phu Wiang"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4017",
+            "DistrictThai": "อำเภอมัญจาคีรี",
+            "DistrictEng": "Amphoe Mancha Khiri"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4018",
+            "DistrictThai": "อำเภอชนบท",
+            "DistrictEng": "Amphoe Chonnabot"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4019",
+            "DistrictThai": "อำเภอเขาสวนกวาง",
+            "DistrictEng": "Amphoe Khao Suan Kwang"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4020",
+            "DistrictThai": "อำเภอภูผาม่าน",
+            "DistrictEng": "Amphoe Phu Pha Man"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4021",
+            "DistrictThai": "อำเภอซำสูง",
+            "DistrictEng": "Amphoe Sam Sung"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4022",
+            "DistrictThai": "อำเภอโคกโพธิ์ไชย",
+            "DistrictEng": "Amphoe Khok Pho Chai"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4023",
+            "DistrictThai": "อำเภอหนองนาคำ",
+            "DistrictEng": "Amphoe Nong Na Kham"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4024",
+            "DistrictThai": "อำเภอบ้านแฮด",
+            "DistrictEng": "Amphoe Ban Haet"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4025",
+            "DistrictThai": "อำเภอโนนศิลา",
+            "DistrictEng": "Amphoe Non Sila"
+        },
+        {
+            "ProvinceID": "40",
+            "DistrictID": "4026",
+            "DistrictThai": "อำเภอเวียงเก่า",
+            "DistrictEng": "Amphoe Wiang Kao"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4101",
+            "DistrictThai": "อำเภอเมืองอุดรธานี",
+            "DistrictEng": "Amphoe Mueang Udon Thani"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4102",
+            "DistrictThai": "อำเภอกุดจับ",
+            "DistrictEng": "Amphoe Kut Chap"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4103",
+            "DistrictThai": "อำเภอหนองวัวซอ",
+            "DistrictEng": "Amphoe Nong Wua So"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4104",
+            "DistrictThai": "อำเภอกุมภวาปี",
+            "DistrictEng": "Amphoe Kumphawapi"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4105",
+            "DistrictThai": "อำเภอโนนสะอาด",
+            "DistrictEng": "Amphoe Non Sa-at"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4106",
+            "DistrictThai": "อำเภอหนองหาน",
+            "DistrictEng": "Amphoe Nong Han"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4107",
+            "DistrictThai": "อำเภอทุ่งฝน",
+            "DistrictEng": "Amphoe Thung Fon"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4108",
+            "DistrictThai": "อำเภอไชยวาน",
+            "DistrictEng": "Amphoe Chai Wan"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4109",
+            "DistrictThai": "อำเภอศรีธาตุ",
+            "DistrictEng": "Amphoe Si That"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4110",
+            "DistrictThai": "อำเภอวังสามหมอ",
+            "DistrictEng": "Amphoe Wang Sam Mo"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4111",
+            "DistrictThai": "อำเภอบ้านดุง",
+            "DistrictEng": "Amphoe Ban Dung"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4117",
+            "DistrictThai": "อำเภอบ้านผือ",
+            "DistrictEng": "Amphoe Ban Phue"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4118",
+            "DistrictThai": "อำเภอน้ำโสม",
+            "DistrictEng": "Amphoe Nam Som"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4119",
+            "DistrictThai": "อำเภอเพ็ญ",
+            "DistrictEng": "Amphoe Phen"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4120",
+            "DistrictThai": "อำเภอสร้างคอม",
+            "DistrictEng": "Amphoe Sang Khom"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4121",
+            "DistrictThai": "อำเภอหนองแสง",
+            "DistrictEng": "Amphoe Nong Saeng"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4122",
+            "DistrictThai": "อำเภอนายูง",
+            "DistrictEng": "Amphoe Na Yung"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4123",
+            "DistrictThai": "อำเภอพิบูลย์รักษ์",
+            "DistrictEng": "Amphoe Phibun Rak"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4124",
+            "DistrictThai": "อำเภอกู่แก้ว",
+            "DistrictEng": "Amphoe Ku Kaeo"
+        },
+        {
+            "ProvinceID": "41",
+            "DistrictID": "4125",
+            "DistrictThai": "อำเภอประจักษ์ศิลปาคม",
+            "DistrictEng": "Amphoe Prachak Sinlapakhom"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4201",
+            "DistrictThai": "อำเภอเมืองเลย",
+            "DistrictEng": "Amphoe Mueang Loei"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4202",
+            "DistrictThai": "อำเภอนาด้วง",
+            "DistrictEng": "Amphoe Na Duang"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4203",
+            "DistrictThai": "อำเภอเชียงคาน",
+            "DistrictEng": "Amphoe Chiang Khan"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4204",
+            "DistrictThai": "อำเภอปากชม",
+            "DistrictEng": "Amphoe Pak Chom"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4205",
+            "DistrictThai": "อำเภอด่านซ้าย",
+            "DistrictEng": "Amphoe Dan Sai"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4206",
+            "DistrictThai": "อำเภอนาแห้ว",
+            "DistrictEng": "Amphoe Na Haeo"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4207",
+            "DistrictThai": "อำเภอภูเรือ",
+            "DistrictEng": "Amphoe Phu Ruea"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4208",
+            "DistrictThai": "อำเภอท่าลี่",
+            "DistrictEng": "Amphoe Tha Li"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4209",
+            "DistrictThai": "อำเภอวังสะพุง",
+            "DistrictEng": "Amphoe Wang Saphung"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4210",
+            "DistrictThai": "อำเภอภูกระดึง",
+            "DistrictEng": "Amphoe Phu Kradueng"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4211",
+            "DistrictThai": "อำเภอภูหลวง",
+            "DistrictEng": "Amphoe Phu Luang"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4212",
+            "DistrictThai": "อำเภอผาขาว",
+            "DistrictEng": "Amphoe Pha Khao"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4213",
+            "DistrictThai": "อำเภอเอราวัณ",
+            "DistrictEng": "Amphoe Erawan"
+        },
+        {
+            "ProvinceID": "42",
+            "DistrictID": "4214",
+            "DistrictThai": "อำเภอหนองหิน",
+            "DistrictEng": "Amphoe Nong Hin"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4301",
+            "DistrictThai": "อำเภอเมืองหนองคาย",
+            "DistrictEng": "Amphoe Mueang Nong Khai"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4302",
+            "DistrictThai": "อำเภอท่าบ่อ",
+            "DistrictEng": "Amphoe Tha Bo"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4305",
+            "DistrictThai": "อำเภอโพนพิสัย",
+            "DistrictEng": "Amphoe Phon Phisai"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4307",
+            "DistrictThai": "อำเภอศรีเชียงใหม่",
+            "DistrictEng": "Amphoe Si Chiang Mai"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4308",
+            "DistrictThai": "อำเภอสังคม",
+            "DistrictEng": "Amphoe Sangkhom"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4314",
+            "DistrictThai": "อำเภอสระใคร",
+            "DistrictEng": "Amphoe Sakhrai"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4315",
+            "DistrictThai": "อำเภอเฝ้าไร่",
+            "DistrictEng": "Amphoe Fao Rai"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4316",
+            "DistrictThai": "อำเภอรัตนวาปี",
+            "DistrictEng": "Amphoe Rattanawapi"
+        },
+        {
+            "ProvinceID": "43",
+            "DistrictID": "4317",
+            "DistrictThai": "อำเภอโพธิ์ตาก",
+            "DistrictEng": "Amphoe Pho Tak"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4401",
+            "DistrictThai": "อำเภอเมืองมหาสารคาม",
+            "DistrictEng": "Amphoe Mueang Maha Sarakham"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4402",
+            "DistrictThai": "อำเภอแกดำ",
+            "DistrictEng": "Amphoe Kae Dam"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4403",
+            "DistrictThai": "อำเภอโกสุมพิสัย",
+            "DistrictEng": "Amphoe Kosum Phisai"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4404",
+            "DistrictThai": "อำเภอกันทรวิชัย",
+            "DistrictEng": "Amphoe Kantharawichai"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4405",
+            "DistrictThai": "อำเภอเชียงยืน",
+            "DistrictEng": "Amphoe Chiang Yuen"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4406",
+            "DistrictThai": "อำเภอบรบือ",
+            "DistrictEng": "Amphoe Borabue"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4407",
+            "DistrictThai": "อำเภอนาเชือก",
+            "DistrictEng": "Amphoe Na Chueak"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4408",
+            "DistrictThai": "อำเภอพยัคฆภูมิพิสัย",
+            "DistrictEng": "Amphoe Phayakkhaphum Phisai"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4409",
+            "DistrictThai": "อำเภอวาปีปทุม",
+            "DistrictEng": "Amphoe Wapi Pathum"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4410",
+            "DistrictThai": "อำเภอนาดูน",
+            "DistrictEng": "Amphoe Na Dun"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4411",
+            "DistrictThai": "อำเภอยางสีสุราช",
+            "DistrictEng": "Amphoe Yang Si Surat"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4412",
+            "DistrictThai": "อำเภอกุดรัง",
+            "DistrictEng": "Amphoe Kut Rang"
+        },
+        {
+            "ProvinceID": "44",
+            "DistrictID": "4413",
+            "DistrictThai": "อำเภอชื่นชม",
+            "DistrictEng": "Amphoe Chuen Chom"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4501",
+            "DistrictThai": "อำเภอเมืองร้อยเอ็ด",
+            "DistrictEng": "Amphoe Mueang Roi Et"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4502",
+            "DistrictThai": "อำเภอเกษตรวิสัย",
+            "DistrictEng": "Amphoe Kaset Wisai"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4503",
+            "DistrictThai": "อำเภอปทุมรัตต์",
+            "DistrictEng": "Amphoe Pathum Rat"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4504",
+            "DistrictThai": "อำเภอจตุรพักตรพิมาน",
+            "DistrictEng": "Amphoe Chaturaphak Phiman"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4505",
+            "DistrictThai": "อำเภอธวัชบุรี",
+            "DistrictEng": "Amphoe Thawat Buri"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4506",
+            "DistrictThai": "อำเภอพนมไพร",
+            "DistrictEng": "Amphoe Phanom Phrai"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4507",
+            "DistrictThai": "อำเภอโพนทอง",
+            "DistrictEng": "Amphoe Phon Thong"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4508",
+            "DistrictThai": "อำเภอโพธิ์ชัย",
+            "DistrictEng": "Amphoe Pho Chai"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4509",
+            "DistrictThai": "อำเภอหนองพอก",
+            "DistrictEng": "Amphoe Nong Phok"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4510",
+            "DistrictThai": "อำเภอเสลภูมิ",
+            "DistrictEng": "Amphoe Selaphum"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4511",
+            "DistrictThai": "อำเภอสุวรรณภูมิ",
+            "DistrictEng": "Amphoe Suwannaphum"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4512",
+            "DistrictThai": "อำเภอเมืองสรวง",
+            "DistrictEng": "Amphoe Mueang Suang"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4513",
+            "DistrictThai": "อำเภอโพนทราย",
+            "DistrictEng": "Amphoe Phon Sai"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4514",
+            "DistrictThai": "อำเภออาจสามารถ",
+            "DistrictEng": "Amphoe At Samat"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4515",
+            "DistrictThai": "อำเภอเมยวดี",
+            "DistrictEng": "Amphoe Moei Wadi"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4516",
+            "DistrictThai": "อำเภอศรีสมเด็จ",
+            "DistrictEng": "Amphoe Si Somdet"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4517",
+            "DistrictThai": "อำเภอจังหาร",
+            "DistrictEng": "Amphoe Changhan"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4518",
+            "DistrictThai": "อำเภอเชียงขวัญ",
+            "DistrictEng": "Amphoe Chiang Khwan"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4519",
+            "DistrictThai": "อำเภอหนองฮี",
+            "DistrictEng": "Amphoe Nong Hi"
+        },
+        {
+            "ProvinceID": "45",
+            "DistrictID": "4520",
+            "DistrictThai": "อำเภอทุ่งเขาหลวง",
+            "DistrictEng": "Amphoe Thung Khao Luang"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4601",
+            "DistrictThai": "อำเภอเมืองกาฬสินธุ์",
+            "DistrictEng": "Amphoe Mueang Kalasin"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4602",
+            "DistrictThai": "อำเภอนามน",
+            "DistrictEng": "Amphoe Na Mon"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4603",
+            "DistrictThai": "อำเภอกมลาไสย",
+            "DistrictEng": "Amphoe Kamalasai"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4604",
+            "DistrictThai": "อำเภอร่องคำ",
+            "DistrictEng": "Amphoe Rong Kham"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4605",
+            "DistrictThai": "อำเภอกุฉินารายณ์",
+            "DistrictEng": "Amphoe Kuchinarai"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4606",
+            "DistrictThai": "อำเภอเขาวง",
+            "DistrictEng": "Amphoe Khao Wong"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4607",
+            "DistrictThai": "อำเภอยางตลาด",
+            "DistrictEng": "Amphoe Yang Talat"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4608",
+            "DistrictThai": "อำเภอห้วยเม็ก",
+            "DistrictEng": "Amphoe Huai Mek"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4609",
+            "DistrictThai": "อำเภอสหัสขันธ์",
+            "DistrictEng": "Amphoe Sahatsakhan"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4610",
+            "DistrictThai": "อำเภอคำม่วง",
+            "DistrictEng": "Amphoe Kham Muang"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4611",
+            "DistrictThai": "อำเภอท่าคันโท",
+            "DistrictEng": "Amphoe Tha Khantho"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4612",
+            "DistrictThai": "อำเภอหนองกุงศรี",
+            "DistrictEng": "Amphoe Nong Kung Si"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4613",
+            "DistrictThai": "อำเภอสมเด็จ",
+            "DistrictEng": "Amphoe Somdet"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4614",
+            "DistrictThai": "อำเภอห้วยผึ้ง",
+            "DistrictEng": "Amphoe Huai Phueng"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4615",
+            "DistrictThai": "อำเภอสามชัย",
+            "DistrictEng": "Amphoe Sam Chai"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4616",
+            "DistrictThai": "อำเภอนาคู",
+            "DistrictEng": "Amphoe Na Khu"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4617",
+            "DistrictThai": "อำเภอดอนจาน",
+            "DistrictEng": "Amphoe Don Chan"
+        },
+        {
+            "ProvinceID": "46",
+            "DistrictID": "4618",
+            "DistrictThai": "อำเภอฆ้องชัย",
+            "DistrictEng": "Amphoe Khong Chai"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4701",
+            "DistrictThai": "อำเภอเมืองสกลนคร",
+            "DistrictEng": "Amphoe Mueang Sakon Nakhon"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4702",
+            "DistrictThai": "อำเภอกุสุมาลย์",
+            "DistrictEng": "Amphoe Kusuman"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4703",
+            "DistrictThai": "อำเภอกุดบาก",
+            "DistrictEng": "Amphoe Kut Bak"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4704",
+            "DistrictThai": "อำเภอพรรณานิคม",
+            "DistrictEng": "Amphoe Phanna Nikhom"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4705",
+            "DistrictThai": "อำเภอพังโคน",
+            "DistrictEng": "Amphoe Phang Khon"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4706",
+            "DistrictThai": "อำเภอวาริชภูมิ",
+            "DistrictEng": "Amphoe Waritchaphum"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4707",
+            "DistrictThai": "อำเภอนิคมน้ำอูน",
+            "DistrictEng": "Amphoe Nikhom Nam Un"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4708",
+            "DistrictThai": "อำเภอวานรนิวาส",
+            "DistrictEng": "Amphoe Wanon Niwat"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4709",
+            "DistrictThai": "อำเภอคำตากล้า",
+            "DistrictEng": "Amphoe Kham Ta Kla"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4710",
+            "DistrictThai": "อำเภอบ้านม่วง",
+            "DistrictEng": "Amphoe Ban Muang"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4711",
+            "DistrictThai": "อำเภออากาศอำนวย",
+            "DistrictEng": "Amphoe Akat Amnuai"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4712",
+            "DistrictThai": "อำเภอสว่างแดนดิน",
+            "DistrictEng": "Amphoe Sawang Daen Din"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4713",
+            "DistrictThai": "อำเภอส่องดาว",
+            "DistrictEng": "Amphoe Song Dao"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4714",
+            "DistrictThai": "อำเภอเต่างอย",
+            "DistrictEng": "Amphoe Tao Ngoi"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4715",
+            "DistrictThai": "อำเภอโคกศรีสุพรรณ",
+            "DistrictEng": "Amphoe Khok Si Suphan"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4716",
+            "DistrictThai": "อำเภอเจริญศิลป์",
+            "DistrictEng": "Amphoe Charoen Sin"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4717",
+            "DistrictThai": "อำเภอโพนนาแก้ว",
+            "DistrictEng": "Amphoe Phon Na Kaeo"
+        },
+        {
+            "ProvinceID": "47",
+            "DistrictID": "4718",
+            "DistrictThai": "อำเภอภูพาน",
+            "DistrictEng": "Amphoe Phu Phan"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4801",
+            "DistrictThai": "อำเภอเมืองนครพนม",
+            "DistrictEng": "Amphoe Mueang Nakhon Phanom"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4802",
+            "DistrictThai": "อำเภอปลาปาก",
+            "DistrictEng": "Amphoe Pla Pak"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4803",
+            "DistrictThai": "อำเภอท่าอุเทน",
+            "DistrictEng": "Amphoe Tha Uthen"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4804",
+            "DistrictThai": "อำเภอบ้านแพง",
+            "DistrictEng": "Amphoe Ban Phaeng"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4805",
+            "DistrictThai": "อำเภอธาตุพนม",
+            "DistrictEng": "Amphoe That Phanom"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4806",
+            "DistrictThai": "อำเภอเรณูนคร",
+            "DistrictEng": "Amphoe Renu Nakhon"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4807",
+            "DistrictThai": "อำเภอนาแก",
+            "DistrictEng": "Amphoe Na Kae"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4808",
+            "DistrictThai": "อำเภอศรีสงคราม",
+            "DistrictEng": "Amphoe Si Songkhram"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4809",
+            "DistrictThai": "อำเภอนาหว้า",
+            "DistrictEng": "Amphoe Na Wa"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4810",
+            "DistrictThai": "อำเภอโพนสวรรค์",
+            "DistrictEng": "Amphoe Phon Sawan"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4811",
+            "DistrictThai": "อำเภอนาทม",
+            "DistrictEng": "Amphoe Na Thom"
+        },
+        {
+            "ProvinceID": "48",
+            "DistrictID": "4812",
+            "DistrictThai": "อำเภอวังยาง",
+            "DistrictEng": "Amphoe Wang Yang"
+        },
+        {
+            "ProvinceID": "49",
+            "DistrictID": "4901",
+            "DistrictThai": "อำเภอเมืองมุกดาหาร",
+            "DistrictEng": "Amphoe Mueang Mukdahan"
+        },
+        {
+            "ProvinceID": "49",
+            "DistrictID": "4902",
+            "DistrictThai": "อำเภอนิคมคำสร้อย",
+            "DistrictEng": "Amphoe Nikhom Kham Soi"
+        },
+        {
+            "ProvinceID": "49",
+            "DistrictID": "4903",
+            "DistrictThai": "อำเภอดอนตาล",
+            "DistrictEng": "Amphoe Don Tan"
+        },
+        {
+            "ProvinceID": "49",
+            "DistrictID": "4904",
+            "DistrictThai": "อำเภอดงหลวง",
+            "DistrictEng": "Amphoe Dong Luang"
+        },
+        {
+            "ProvinceID": "49",
+            "DistrictID": "4905",
+            "DistrictThai": "อำเภอคำชะอี",
+            "DistrictEng": "Amphoe Khamcha-i"
+        },
+        {
+            "ProvinceID": "49",
+            "DistrictID": "4906",
+            "DistrictThai": "อำเภอหว้านใหญ่",
+            "DistrictEng": "Amphoe Wan Yai"
+        },
+        {
+            "ProvinceID": "49",
+            "DistrictID": "4907",
+            "DistrictThai": "อำเภอหนองสูง",
+            "DistrictEng": "Amphoe Nong Sung"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5001",
+            "DistrictThai": "อำเภอเมืองเชียงใหม่",
+            "DistrictEng": "Amphoe Mueang Chiang Mai"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5002",
+            "DistrictThai": "อำเภอจอมทอง",
+            "DistrictEng": "Amphoe Chom Thong"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5003",
+            "DistrictThai": "อำเภอแม่แจ่ม",
+            "DistrictEng": "Amphoe Mae Chaem"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5004",
+            "DistrictThai": "อำเภอเชียงดาว",
+            "DistrictEng": "Amphoe Chiang Dao"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5005",
+            "DistrictThai": "อำเภอดอยสะเก็ด",
+            "DistrictEng": "Amphoe Doi Saket"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5006",
+            "DistrictThai": "อำเภอแม่แตง",
+            "DistrictEng": "Amphoe Mae Taeng"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5007",
+            "DistrictThai": "อำเภอแม่ริม",
+            "DistrictEng": "Amphoe Mae Rim"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5008",
+            "DistrictThai": "อำเภอสะเมิง",
+            "DistrictEng": "Amphoe Samoeng"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5009",
+            "DistrictThai": "อำเภอฝาง",
+            "DistrictEng": "Amphoe Fang"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5010",
+            "DistrictThai": "อำเภอแม่อาย",
+            "DistrictEng": "Amphoe Mae Ai"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5011",
+            "DistrictThai": "อำเภอพร้าว",
+            "DistrictEng": "Amphoe Phrao"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5012",
+            "DistrictThai": "อำเภอสันป่าตอง",
+            "DistrictEng": "Amphoe San Pa Tong"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5013",
+            "DistrictThai": "อำเภอสันกำแพง",
+            "DistrictEng": "Amphoe San Kamphaeng"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5014",
+            "DistrictThai": "อำเภอสันทราย",
+            "DistrictEng": "Amphoe San Sai"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5015",
+            "DistrictThai": "อำเภอหางดง",
+            "DistrictEng": "Amphoe Hang Dong"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5016",
+            "DistrictThai": "อำเภอฮอด",
+            "DistrictEng": "Amphoe Hot"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5017",
+            "DistrictThai": "อำเภอดอยเต่า",
+            "DistrictEng": "Amphoe Doi Tao"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5018",
+            "DistrictThai": "อำเภออมก๋อย",
+            "DistrictEng": "Amphoe Omkoi"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5019",
+            "DistrictThai": "อำเภอสารภี",
+            "DistrictEng": "Amphoe Saraphi"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5020",
+            "DistrictThai": "อำเภอเวียงแหง",
+            "DistrictEng": "Amphoe Wiang Haeng"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5021",
+            "DistrictThai": "อำเภอไชยปราการ",
+            "DistrictEng": "Amphoe Chai Prakan"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5022",
+            "DistrictThai": "อำเภอแม่วาง",
+            "DistrictEng": "Amphoe Mae Wang"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5023",
+            "DistrictThai": "อำเภอแม่ออน",
+            "DistrictEng": "Amphoe Mae On"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5024",
+            "DistrictThai": "อำเภอดอยหล่อ",
+            "DistrictEng": "Amphoe Doi Lo"
+        },
+        {
+            "ProvinceID": "50",
+            "DistrictID": "5025",
+            "DistrictThai": "อำเภอกัลยาณิวัฒนา",
+            "DistrictEng": "Amphoe Galayani Vadhana"
+        },
+        {
+            "ProvinceID": "51",
+            "DistrictID": "5101",
+            "DistrictThai": "อำเภอเมืองลำพูน",
+            "DistrictEng": "Amphoe Mueang Lamphun"
+        },
+        {
+            "ProvinceID": "51",
+            "DistrictID": "5102",
+            "DistrictThai": "อำเภอแม่ทา",
+            "DistrictEng": "Amphoe Mae Tha"
+        },
+        {
+            "ProvinceID": "51",
+            "DistrictID": "5103",
+            "DistrictThai": "อำเภอบ้านโฮ่ง",
+            "DistrictEng": "Amphoe Ban Hong"
+        },
+        {
+            "ProvinceID": "51",
+            "DistrictID": "5104",
+            "DistrictThai": "อำเภอลี้",
+            "DistrictEng": "Amphoe Li"
+        },
+        {
+            "ProvinceID": "51",
+            "DistrictID": "5105",
+            "DistrictThai": "อำเภอทุ่งหัวช้าง",
+            "DistrictEng": "Amphoe Thung Hua Chang"
+        },
+        {
+            "ProvinceID": "51",
+            "DistrictID": "5106",
+            "DistrictThai": "อำเภอป่าซาง",
+            "DistrictEng": "Amphoe Pa Sang"
+        },
+        {
+            "ProvinceID": "51",
+            "DistrictID": "5107",
+            "DistrictThai": "อำเภอบ้านธิ",
+            "DistrictEng": "Amphoe Ban Thi"
+        },
+        {
+            "ProvinceID": "51",
+            "DistrictID": "5108",
+            "DistrictThai": "อำเภอเวียงหนองล่อง",
+            "DistrictEng": "Amphoe Wiang Nong Long"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5201",
+            "DistrictThai": "อำเภอเมืองลำปาง",
+            "DistrictEng": "Amphoe Mueang Lampang"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5202",
+            "DistrictThai": "อำเภอแม่เมาะ",
+            "DistrictEng": "Amphoe Mae Mo"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5203",
+            "DistrictThai": "อำเภอเกาะคา",
+            "DistrictEng": "Amphoe Ko Kha"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5204",
+            "DistrictThai": "อำเภอเสริมงาม",
+            "DistrictEng": "Amphoe Soem Ngam"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5205",
+            "DistrictThai": "อำเภองาว",
+            "DistrictEng": "Amphoe Ngao"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5206",
+            "DistrictThai": "อำเภอแจ้ห่ม",
+            "DistrictEng": "Amphoe Chae Hom"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5207",
+            "DistrictThai": "อำเภอวังเหนือ",
+            "DistrictEng": "Amphoe Wang Nuea"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5208",
+            "DistrictThai": "อำเภอเถิน",
+            "DistrictEng": "Amphoe Thoen"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5209",
+            "DistrictThai": "อำเภอแม่พริก",
+            "DistrictEng": "Amphoe Mae Phrik"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5210",
+            "DistrictThai": "อำเภอแม่ทะ",
+            "DistrictEng": "Amphoe Mae Tha"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5211",
+            "DistrictThai": "อำเภอสบปราบ",
+            "DistrictEng": "Amphoe Sop Prap"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5212",
+            "DistrictThai": "อำเภอห้างฉัตร",
+            "DistrictEng": "Amphoe Hang Chat"
+        },
+        {
+            "ProvinceID": "52",
+            "DistrictID": "5213",
+            "DistrictThai": "อำเภอเมืองปาน",
+            "DistrictEng": "Amphoe Mueang Pan"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5301",
+            "DistrictThai": "อำเภอเมืองอุตรดิตถ์",
+            "DistrictEng": "Amphoe Mueang Uttaradit"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5302",
+            "DistrictThai": "อำเภอตรอน",
+            "DistrictEng": "Amphoe Tron"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5303",
+            "DistrictThai": "อำเภอท่าปลา",
+            "DistrictEng": "Amphoe Tha Pla"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5304",
+            "DistrictThai": "อำเภอน้ำปาด",
+            "DistrictEng": "Amphoe Nam Pat"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5305",
+            "DistrictThai": "อำเภอฟากท่า",
+            "DistrictEng": "Amphoe Fak Tha"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5306",
+            "DistrictThai": "อำเภอบ้านโคก",
+            "DistrictEng": "Amphoe Ban Khok"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5307",
+            "DistrictThai": "อำเภอพิชัย",
+            "DistrictEng": "Amphoe Phichai"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5308",
+            "DistrictThai": "อำเภอลับแล",
+            "DistrictEng": "Amphoe Laplae"
+        },
+        {
+            "ProvinceID": "53",
+            "DistrictID": "5309",
+            "DistrictThai": "อำเภอทองแสนขัน",
+            "DistrictEng": "Amphoe Thong Saen Khan"
+        },
+        {
+            "ProvinceID": "54",
+            "DistrictID": "5401",
+            "DistrictThai": "อำเภอเมืองแพร่",
+            "DistrictEng": "Amphoe Mueang Phrae"
+        },
+        {
+            "ProvinceID": "54",
+            "DistrictID": "5402",
+            "DistrictThai": "อำเภอร้องกวาง",
+            "DistrictEng": "Amphoe Rong Kwang"
+        },
+        {
+            "ProvinceID": "54",
+            "DistrictID": "5403",
+            "DistrictThai": "อำเภอลอง",
+            "DistrictEng": "Amphoe Long"
+        },
+        {
+            "ProvinceID": "54",
+            "DistrictID": "5404",
+            "DistrictThai": "อำเภอสูงเม่น",
+            "DistrictEng": "Amphoe Sung Men"
+        },
+        {
+            "ProvinceID": "54",
+            "DistrictID": "5405",
+            "DistrictThai": "อำเภอเด่นชัย",
+            "DistrictEng": "Amphoe Den Chai"
+        },
+        {
+            "ProvinceID": "54",
+            "DistrictID": "5406",
+            "DistrictThai": "อำเภอสอง",
+            "DistrictEng": "Amphoe Song"
+        },
+        {
+            "ProvinceID": "54",
+            "DistrictID": "5407",
+            "DistrictThai": "อำเภอวังชิ้น",
+            "DistrictEng": "Amphoe Wang Chin"
+        },
+        {
+            "ProvinceID": "54",
+            "DistrictID": "5408",
+            "DistrictThai": "อำเภอหนองม่วงไข่",
+            "DistrictEng": "Amphoe Nong Muang Khai"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5501",
+            "DistrictThai": "อำเภอเมืองน่าน",
+            "DistrictEng": "Amphoe Mueang Nan"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5502",
+            "DistrictThai": "อำเภอแม่จริม",
+            "DistrictEng": "Amphoe Mae Charim"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5503",
+            "DistrictThai": "อำเภอบ้านหลวง",
+            "DistrictEng": "Amphoe Ban Luang"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5504",
+            "DistrictThai": "อำเภอนาน้อย",
+            "DistrictEng": "Amphoe Na Noi"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5505",
+            "DistrictThai": "อำเภอปัว",
+            "DistrictEng": "Amphoe Pua"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5506",
+            "DistrictThai": "อำเภอท่าวังผา",
+            "DistrictEng": "Amphoe Tha Wang Pha"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5507",
+            "DistrictThai": "อำเภอเวียงสา",
+            "DistrictEng": "Amphoe Wiang Sa"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5508",
+            "DistrictThai": "อำเภอทุ่งช้าง",
+            "DistrictEng": "Amphoe Thung Chang"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5509",
+            "DistrictThai": "อำเภอเชียงกลาง",
+            "DistrictEng": "Amphoe Chiang Klang"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5510",
+            "DistrictThai": "อำเภอนาหมื่น",
+            "DistrictEng": "Amphoe Na Muen"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5511",
+            "DistrictThai": "อำเภอสันติสุข",
+            "DistrictEng": "Amphoe Santi Suk"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5512",
+            "DistrictThai": "อำเภอบ่อเกลือ",
+            "DistrictEng": "Amphoe Bo Kluea"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5513",
+            "DistrictThai": "อำเภอสองแคว",
+            "DistrictEng": "Amphoe Song Khwae"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5514",
+            "DistrictThai": "อำเภอภูเพียง",
+            "DistrictEng": "Amphoe Phu Phiang"
+        },
+        {
+            "ProvinceID": "55",
+            "DistrictID": "5515",
+            "DistrictThai": "อำเภอเฉลิมพระเกียรติ",
+            "DistrictEng": "Amphoe Chaloem Phra Kiat"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5601",
+            "DistrictThai": "อำเภอเมืองพะเยา",
+            "DistrictEng": "Amphoe Mueang Phayao"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5602",
+            "DistrictThai": "อำเภอจุน",
+            "DistrictEng": "Amphoe Chun"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5603",
+            "DistrictThai": "อำเภอเชียงคำ",
+            "DistrictEng": "Amphoe Chiang Kham"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5604",
+            "DistrictThai": "อำเภอเชียงม่วน",
+            "DistrictEng": "Amphoe Chiang Muan"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5605",
+            "DistrictThai": "อำเภอดอกคำใต้",
+            "DistrictEng": "Amphoe Dok Khamtai"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5606",
+            "DistrictThai": "อำเภอปง",
+            "DistrictEng": "Amphoe Pong"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5607",
+            "DistrictThai": "อำเภอแม่ใจ",
+            "DistrictEng": "Amphoe Mae Chai"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5608",
+            "DistrictThai": "อำเภอภูซาง",
+            "DistrictEng": "Amphoe Phu Sang"
+        },
+        {
+            "ProvinceID": "56",
+            "DistrictID": "5609",
+            "DistrictThai": "อำเภอภูกามยาว",
+            "DistrictEng": "Amphoe Phu Kamyao"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5701",
+            "DistrictThai": "อำเภอเมืองเชียงราย",
+            "DistrictEng": "Amphoe Mueang Chiang Rai"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5702",
+            "DistrictThai": "อำเภอเวียงชัย",
+            "DistrictEng": "Amphoe Wiang Chai"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5703",
+            "DistrictThai": "อำเภอเชียงของ",
+            "DistrictEng": "Amphoe Chiang Khong"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5704",
+            "DistrictThai": "อำเภอเทิง",
+            "DistrictEng": "Amphoe Thoeng"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5705",
+            "DistrictThai": "อำเภอพาน",
+            "DistrictEng": "Amphoe Phan"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5706",
+            "DistrictThai": "อำเภอป่าแดด",
+            "DistrictEng": "Amphoe Pa Daet"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5707",
+            "DistrictThai": "อำเภอแม่จัน",
+            "DistrictEng": "Amphoe Mae Chan"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5708",
+            "DistrictThai": "อำเภอเชียงแสน",
+            "DistrictEng": "Amphoe Chiang Saen"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5709",
+            "DistrictThai": "อำเภอแม่สาย",
+            "DistrictEng": "Amphoe Mae Sai"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5710",
+            "DistrictThai": "อำเภอแม่สรวย",
+            "DistrictEng": "Amphoe Mae Suai"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5711",
+            "DistrictThai": "อำเภอเวียงป่าเป้า",
+            "DistrictEng": "Amphoe Wiang Pa Pao"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5712",
+            "DistrictThai": "อำเภอพญาเม็งราย",
+            "DistrictEng": "Amphoe Phaya Mengrai"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5713",
+            "DistrictThai": "อำเภอเวียงแก่น",
+            "DistrictEng": "Amphoe Wiang Kaen"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5714",
+            "DistrictThai": "อำเภอขุนตาล",
+            "DistrictEng": "Amphoe Khun Tan"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5715",
+            "DistrictThai": "อำเภอแม่ฟ้าหลวง",
+            "DistrictEng": "Amphoe Mae Fa Luang"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5716",
+            "DistrictThai": "อำเภอแม่ลาว",
+            "DistrictEng": "Amphoe Mae Lao"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5717",
+            "DistrictThai": "อำเภอเวียงเชียงรุ้ง",
+            "DistrictEng": "Amphoe Wiang Chiang Rung"
+        },
+        {
+            "ProvinceID": "57",
+            "DistrictID": "5718",
+            "DistrictThai": "อำเภอดอยหลวง",
+            "DistrictEng": "Amphoe Doi Luang"
+        },
+        {
+            "ProvinceID": "58",
+            "DistrictID": "5801",
+            "DistrictThai": "อำเภอเมืองแม่ฮ่องสอน",
+            "DistrictEng": "Amphoe Mueang Mae Hong Son"
+        },
+        {
+            "ProvinceID": "58",
+            "DistrictID": "5802",
+            "DistrictThai": "อำเภอขุนยวม",
+            "DistrictEng": "Amphoe Khun Yuam"
+        },
+        {
+            "ProvinceID": "58",
+            "DistrictID": "5803",
+            "DistrictThai": "อำเภอปาย",
+            "DistrictEng": "Amphoe Pai"
+        },
+        {
+            "ProvinceID": "58",
+            "DistrictID": "5804",
+            "DistrictThai": "อำเภอแม่สะเรียง",
+            "DistrictEng": "Amphoe Mae Sariang"
+        },
+        {
+            "ProvinceID": "58",
+            "DistrictID": "5805",
+            "DistrictThai": "อำเภอแม่ลาน้อย",
+            "DistrictEng": "Amphoe Mae La Noi"
+        },
+        {
+            "ProvinceID": "58",
+            "DistrictID": "5806",
+            "DistrictThai": "อำเภอสบเมย",
+            "DistrictEng": "Amphoe Sop Moei"
+        },
+        {
+            "ProvinceID": "58",
+            "DistrictID": "5807",
+            "DistrictThai": "อำเภอปางมะผ้า",
+            "DistrictEng": "Amphoe Pang Mapha"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6001",
+            "DistrictThai": "อำเภอเมืองนครสวรรค์",
+            "DistrictEng": "Amphoe Mueang Nakhon Sawan"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6002",
+            "DistrictThai": "อำเภอโกรกพระ",
+            "DistrictEng": "Amphoe Krok Phra"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6003",
+            "DistrictThai": "อำเภอชุมแสง",
+            "DistrictEng": "Amphoe Chum Saeng"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6004",
+            "DistrictThai": "อำเภอหนองบัว",
+            "DistrictEng": "Amphoe Nong Bua"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6005",
+            "DistrictThai": "อำเภอบรรพตพิสัย",
+            "DistrictEng": "Amphoe Banphot Phisai"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6006",
+            "DistrictThai": "อำเภอเก้าเลี้ยว",
+            "DistrictEng": "Amphoe Kao Liao"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6007",
+            "DistrictThai": "อำเภอตาคลี",
+            "DistrictEng": "Amphoe Takhli"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6008",
+            "DistrictThai": "อำเภอท่าตะโก",
+            "DistrictEng": "Amphoe Tha Tako"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6009",
+            "DistrictThai": "อำเภอไพศาลี",
+            "DistrictEng": "Amphoe Phaisali"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6010",
+            "DistrictThai": "อำเภอพยุหะคีรี",
+            "DistrictEng": "Amphoe Phayuha Khiri"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6011",
+            "DistrictThai": "อำเภอลาดยาว",
+            "DistrictEng": "Amphoe Lat Yao"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6012",
+            "DistrictThai": "อำเภอตากฟ้า",
+            "DistrictEng": "Amphoe Tak Fa"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6013",
+            "DistrictThai": "อำเภอแม่วงก์",
+            "DistrictEng": "Amphoe Mae Wong"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6014",
+            "DistrictThai": "อำเภอแม่เปิน",
+            "DistrictEng": "Amphoe Mae Poen"
+        },
+        {
+            "ProvinceID": "60",
+            "DistrictID": "6015",
+            "DistrictThai": "อำเภอชุมตาบง",
+            "DistrictEng": "Amphoe Chum Ta Bong"
+        },
+        {
+            "ProvinceID": "61",
+            "DistrictID": "6101",
+            "DistrictThai": "อำเภอเมืองอุทัยธานี",
+            "DistrictEng": "Amphoe Mueang Uthai Thani"
+        },
+        {
+            "ProvinceID": "61",
+            "DistrictID": "6102",
+            "DistrictThai": "อำเภอทัพทัน",
+            "DistrictEng": "Amphoe Thap Than"
+        },
+        {
+            "ProvinceID": "61",
+            "DistrictID": "6103",
+            "DistrictThai": "อำเภอสว่างอารมณ์",
+            "DistrictEng": "Amphoe Sawang Arom"
+        },
+        {
+            "ProvinceID": "61",
+            "DistrictID": "6104",
+            "DistrictThai": "อำเภอหนองฉาง",
+            "DistrictEng": "Amphoe Nong Chang"
+        },
+        {
+            "ProvinceID": "61",
+            "DistrictID": "6105",
+            "DistrictThai": "อำเภอหนองขาหย่าง",
+            "DistrictEng": "Amphoe Nong Khayang"
+        },
+        {
+            "ProvinceID": "61",
+            "DistrictID": "6106",
+            "DistrictThai": "อำเภอบ้านไร่",
+            "DistrictEng": "Amphoe Ban Rai"
+        },
+        {
+            "ProvinceID": "61",
+            "DistrictID": "6107",
+            "DistrictThai": "อำเภอลานสัก",
+            "DistrictEng": "Amphoe Lan Sak"
+        },
+        {
+            "ProvinceID": "61",
+            "DistrictID": "6108",
+            "DistrictThai": "อำเภอห้วยคต",
+            "DistrictEng": "Amphoe Huai Khot"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6201",
+            "DistrictThai": "อำเภอเมืองกำแพงเพชร",
+            "DistrictEng": "Amphoe Mueang Kamphaeng Phet"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6202",
+            "DistrictThai": "อำเภอไทรงาม",
+            "DistrictEng": "Amphoe Sai Ngam"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6203",
+            "DistrictThai": "อำเภอคลองลาน",
+            "DistrictEng": "Amphoe Khlong Lan"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6204",
+            "DistrictThai": "อำเภอขาณุวรลักษบุรี",
+            "DistrictEng": "Amphoe Khanu Woralaksaburi"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6205",
+            "DistrictThai": "อำเภอคลองขลุง",
+            "DistrictEng": "Amphoe Khlong Khlung"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6206",
+            "DistrictThai": "อำเภอพรานกระต่าย",
+            "DistrictEng": "Amphoe Phran Kratai"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6207",
+            "DistrictThai": "อำเภอลานกระบือ",
+            "DistrictEng": "Amphoe Lan Krabue"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6208",
+            "DistrictThai": "อำเภอทรายทองวัฒนา",
+            "DistrictEng": "Amphoe Sai Thong Watthana"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6209",
+            "DistrictThai": "อำเภอปางศิลาทอง",
+            "DistrictEng": "Amphoe Pang Sila Thong"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6210",
+            "DistrictThai": "อำเภอบึงสามัคคี",
+            "DistrictEng": "Amphoe Bueng Samakkhi"
+        },
+        {
+            "ProvinceID": "62",
+            "DistrictID": "6211",
+            "DistrictThai": "อำเภอโกสัมพีนคร",
+            "DistrictEng": "Amphoe Kosamphi Nakhon"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6301",
+            "DistrictThai": "อำเภอเมืองตาก",
+            "DistrictEng": "Amphoe Mueang Tak"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6302",
+            "DistrictThai": "อำเภอบ้านตาก",
+            "DistrictEng": "Amphoe Ban Tak"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6303",
+            "DistrictThai": "อำเภอสามเงา",
+            "DistrictEng": "Amphoe Sam Ngao"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6304",
+            "DistrictThai": "อำเภอแม่ระมาด",
+            "DistrictEng": "Amphoe Mae Ramat"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6305",
+            "DistrictThai": "อำเภอท่าสองยาง",
+            "DistrictEng": "Amphoe Tha Song Yang"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6306",
+            "DistrictThai": "อำเภอแม่สอด",
+            "DistrictEng": "Amphoe Mae Sot"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6307",
+            "DistrictThai": "อำเภอพบพระ",
+            "DistrictEng": "Amphoe Phop Phra"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6308",
+            "DistrictThai": "อำเภออุ้มผาง",
+            "DistrictEng": "Amphoe Umphang"
+        },
+        {
+            "ProvinceID": "63",
+            "DistrictID": "6309",
+            "DistrictThai": "อำเภอวังเจ้า",
+            "DistrictEng": "Amphoe Wang Chao"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6401",
+            "DistrictThai": "อำเภอเมืองสุโขทัย",
+            "DistrictEng": "Amphoe Mueang Sukhothai"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6402",
+            "DistrictThai": "อำเภอบ้านด่านลานหอย",
+            "DistrictEng": "Amphoe Ban Dan Lan Hoi"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6403",
+            "DistrictThai": "อำเภอคีรีมาศ",
+            "DistrictEng": "Amphoe Khiri Mat"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6404",
+            "DistrictThai": "อำเภอกงไกรลาศ",
+            "DistrictEng": "Amphoe Kong Krailat"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6405",
+            "DistrictThai": "อำเภอศรีสัชนาลัย",
+            "DistrictEng": "Amphoe Si Satchanalai"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6406",
+            "DistrictThai": "อำเภอศรีสำโรง",
+            "DistrictEng": "Amphoe Si Samrong"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6407",
+            "DistrictThai": "อำเภอสวรรคโลก",
+            "DistrictEng": "Amphoe Sawankhalok"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6408",
+            "DistrictThai": "อำเภอศรีนคร",
+            "DistrictEng": "Amphoe Si Nakhon"
+        },
+        {
+            "ProvinceID": "64",
+            "DistrictID": "6409",
+            "DistrictThai": "อำเภอทุ่งเสลี่ยม",
+            "DistrictEng": "Amphoe Thung Saliam"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6501",
+            "DistrictThai": "อำเภอเมืองพิษณุโลก",
+            "DistrictEng": "Amphoe Mueang Phitsanulok"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6502",
+            "DistrictThai": "อำเภอนครไทย",
+            "DistrictEng": "Amphoe Nakhon Thai"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6503",
+            "DistrictThai": "อำเภอชาติตระการ",
+            "DistrictEng": "Amphoe Chat Trakan"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6504",
+            "DistrictThai": "อำเภอบางระกำ",
+            "DistrictEng": "Amphoe Bang Rakam"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6505",
+            "DistrictThai": "อำเภอบางกระทุ่ม",
+            "DistrictEng": "Amphoe Bang Krathum"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6506",
+            "DistrictThai": "อำเภอพรหมพิราม",
+            "DistrictEng": "Amphoe Phrom Phiram"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6507",
+            "DistrictThai": "อำเภอวัดโบสถ์",
+            "DistrictEng": "Amphoe Wat Bot"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6508",
+            "DistrictThai": "อำเภอวังทอง",
+            "DistrictEng": "Amphoe Wang Thong"
+        },
+        {
+            "ProvinceID": "65",
+            "DistrictID": "6509",
+            "DistrictThai": "อำเภอเนินมะปราง",
+            "DistrictEng": "Amphoe Noen Maprang"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6601",
+            "DistrictThai": "อำเภอเมืองพิจิตร",
+            "DistrictEng": "Amphoe Mueang Phichit"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6602",
+            "DistrictThai": "อำเภอวังทรายพูน",
+            "DistrictEng": "Amphoe Wang Sai Phun"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6603",
+            "DistrictThai": "อำเภอโพธิ์ประทับช้าง",
+            "DistrictEng": "Amphoe Pho Prathap Chang"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6604",
+            "DistrictThai": "อำเภอตะพานหิน",
+            "DistrictEng": "Amphoe Taphan Hin"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6605",
+            "DistrictThai": "อำเภอบางมูลนาก",
+            "DistrictEng": "Amphoe Bang Mun Nak"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6606",
+            "DistrictThai": "อำเภอโพทะเล",
+            "DistrictEng": "Amphoe Pho Thale"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6607",
+            "DistrictThai": "อำเภอสามง่าม",
+            "DistrictEng": "Amphoe Sam Ngam"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6608",
+            "DistrictThai": "อำเภอทับคล้อ",
+            "DistrictEng": "Amphoe Thap Khlo"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6609",
+            "DistrictThai": "อำเภอสากเหล็ก",
+            "DistrictEng": "Amphoe Sak Lek"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6610",
+            "DistrictThai": "อำเภอบึงนาราง",
+            "DistrictEng": "Amphoe Bueng Na Rang"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6611",
+            "DistrictThai": "อำเภอดงเจริญ",
+            "DistrictEng": "Amphoe Dong Charoen"
+        },
+        {
+            "ProvinceID": "66",
+            "DistrictID": "6612",
+            "DistrictThai": "อำเภอวชิรบารมี",
+            "DistrictEng": "Amphoe Wachirabarami"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6701",
+            "DistrictThai": "อำเภอเมืองเพชรบูรณ์",
+            "DistrictEng": "Amphoe Mueang Phetchabun"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6702",
+            "DistrictThai": "อำเภอชนแดน",
+            "DistrictEng": "Amphoe Chon Daen"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6703",
+            "DistrictThai": "อำเภอหล่มสัก",
+            "DistrictEng": "Amphoe Lom Sak"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6704",
+            "DistrictThai": "อำเภอหล่มเก่า",
+            "DistrictEng": "Amphoe Lom Kao"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6705",
+            "DistrictThai": "อำเภอวิเชียรบุรี",
+            "DistrictEng": "Amphoe Wichian Buri"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6706",
+            "DistrictThai": "อำเภอศรีเทพ",
+            "DistrictEng": "Amphoe Si Thep"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6707",
+            "DistrictThai": "อำเภอหนองไผ่",
+            "DistrictEng": "Amphoe Nong Phai"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6708",
+            "DistrictThai": "อำเภอบึงสามพัน",
+            "DistrictEng": "Amphoe Bueng Sam Phan"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6709",
+            "DistrictThai": "อำเภอน้ำหนาว",
+            "DistrictEng": "Amphoe Nam Nao"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6710",
+            "DistrictThai": "อำเภอวังโป่ง",
+            "DistrictEng": "Amphoe Wang Pong"
+        },
+        {
+            "ProvinceID": "67",
+            "DistrictID": "6711",
+            "DistrictThai": "อำเภอเขาค้อ",
+            "DistrictEng": "Amphoe Khao Kho"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7001",
+            "DistrictThai": "อำเภอเมืองราชบุรี",
+            "DistrictEng": "Amphoe Mueang Ratchaburi"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7002",
+            "DistrictThai": "อำเภอจอมบึง",
+            "DistrictEng": "Amphoe Chom Bueng"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7003",
+            "DistrictThai": "อำเภอสวนผึ้ง",
+            "DistrictEng": "Amphoe Suan Phueng"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7004",
+            "DistrictThai": "อำเภอดำเนินสะดวก",
+            "DistrictEng": "Amphoe Damnoen Saduak"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7005",
+            "DistrictThai": "อำเภอบ้านโป่ง",
+            "DistrictEng": "Amphoe Ban Pong"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7006",
+            "DistrictThai": "อำเภอบางแพ",
+            "DistrictEng": "Amphoe Bang Phae"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7007",
+            "DistrictThai": "อำเภอโพธาราม",
+            "DistrictEng": "Amphoe Photharam"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7008",
+            "DistrictThai": "อำเภอปากท่อ",
+            "DistrictEng": "Amphoe Pak Tho"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7009",
+            "DistrictThai": "อำเภอวัดเพลง",
+            "DistrictEng": "Amphoe Wat Phleng"
+        },
+        {
+            "ProvinceID": "70",
+            "DistrictID": "7010",
+            "DistrictThai": "อำเภอบ้านคา",
+            "DistrictEng": "Amphoe Ban Kha"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7101",
+            "DistrictThai": "อำเภอเมืองกาญจนบุรี",
+            "DistrictEng": "Amphoe Mueang Kanchanaburi"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7102",
+            "DistrictThai": "อำเภอไทรโยค",
+            "DistrictEng": "Amphoe Sai Yok"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7103",
+            "DistrictThai": "อำเภอบ่อพลอย",
+            "DistrictEng": "Amphoe Bo Phloi"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7104",
+            "DistrictThai": "อำเภอศรีสวัสดิ์",
+            "DistrictEng": "Amphoe Si Sawat"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7105",
+            "DistrictThai": "อำเภอท่ามะกา",
+            "DistrictEng": "Amphoe Tha Maka"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7106",
+            "DistrictThai": "อำเภอท่าม่วง",
+            "DistrictEng": "Amphoe Tha Muang"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7107",
+            "DistrictThai": "อำเภอทองผาภูมิ",
+            "DistrictEng": "Amphoe Thong Pha Phum"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7108",
+            "DistrictThai": "อำเภอสังขละบุรี",
+            "DistrictEng": "Amphoe Sangkhla Buri"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7109",
+            "DistrictThai": "อำเภอพนมทวน",
+            "DistrictEng": "Amphoe Phanom Thuan"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7110",
+            "DistrictThai": "อำเภอเลาขวัญ",
+            "DistrictEng": "Amphoe Lao Khwan"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7111",
+            "DistrictThai": "อำเภอด่านมะขามเตี้ย",
+            "DistrictEng": "Amphoe Dan Makham Tia"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7112",
+            "DistrictThai": "อำเภอหนองปรือ",
+            "DistrictEng": "Amphoe Nong Prue"
+        },
+        {
+            "ProvinceID": "71",
+            "DistrictID": "7113",
+            "DistrictThai": "อำเภอห้วยกระเจา",
+            "DistrictEng": "Amphoe Huai Krachao"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7201",
+            "DistrictThai": "อำเภอเมืองสุพรรณบุรี",
+            "DistrictEng": "Amphoe Mueang Suphan Buri"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7202",
+            "DistrictThai": "อำเภอเดิมบางนางบวช",
+            "DistrictEng": "Amphoe Doem Bang Nang Buat"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7203",
+            "DistrictThai": "อำเภอด่านช้าง",
+            "DistrictEng": "Amphoe Dan Chang"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7204",
+            "DistrictThai": "อำเภอบางปลาม้า",
+            "DistrictEng": "Amphoe Bang Pla Ma"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7205",
+            "DistrictThai": "อำเภอศรีประจันต์",
+            "DistrictEng": "Amphoe Si Prachan"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7206",
+            "DistrictThai": "อำเภอดอนเจดีย์",
+            "DistrictEng": "Amphoe Don Chedi"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7207",
+            "DistrictThai": "อำเภอสองพี่น้อง",
+            "DistrictEng": "Amphoe Song Phi Nong"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7208",
+            "DistrictThai": "อำเภอสามชุก",
+            "DistrictEng": "Amphoe Sam Chuk"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7209",
+            "DistrictThai": "อำเภออู่ทอง",
+            "DistrictEng": "Amphoe U Thong"
+        },
+        {
+            "ProvinceID": "72",
+            "DistrictID": "7210",
+            "DistrictThai": "อำเภอหนองหญ้าไซ",
+            "DistrictEng": "Amphoe Nong Ya Sai"
+        },
+        {
+            "ProvinceID": "73",
+            "DistrictID": "7301",
+            "DistrictThai": "อำเภอเมืองนครปฐม",
+            "DistrictEng": "Amphoe Mueang Nakhon Pathom"
+        },
+        {
+            "ProvinceID": "73",
+            "DistrictID": "7302",
+            "DistrictThai": "อำเภอกำแพงแสน",
+            "DistrictEng": "Amphoe Kamphaeng Saen"
+        },
+        {
+            "ProvinceID": "73",
+            "DistrictID": "7303",
+            "DistrictThai": "อำเภอนครชัยศรี",
+            "DistrictEng": "Amphoe Nakhon Chai Si"
+        },
+        {
+            "ProvinceID": "73",
+            "DistrictID": "7304",
+            "DistrictThai": "อำเภอดอนตูม",
+            "DistrictEng": "Amphoe Don Tum"
+        },
+        {
+            "ProvinceID": "73",
+            "DistrictID": "7305",
+            "DistrictThai": "อำเภอบางเลน",
+            "DistrictEng": "Amphoe Bang Len"
+        },
+        {
+            "ProvinceID": "73",
+            "DistrictID": "7306",
+            "DistrictThai": "อำเภอสามพราน",
+            "DistrictEng": "Amphoe Sam Phran"
+        },
+        {
+            "ProvinceID": "73",
+            "DistrictID": "7307",
+            "DistrictThai": "อำเภอพุทธมณฑล",
+            "DistrictEng": "Amphoe Phutthamonthon"
+        },
+        {
+            "ProvinceID": "74",
+            "DistrictID": "7401",
+            "DistrictThai": "อำเภอเมืองสมุทรสาคร",
+            "DistrictEng": "Amphoe Mueang Samut Sakhon"
+        },
+        {
+            "ProvinceID": "74",
+            "DistrictID": "7402",
+            "DistrictThai": "อำเภอกระทุ่มแบน",
+            "DistrictEng": "Amphoe Krathum Baen"
+        },
+        {
+            "ProvinceID": "74",
+            "DistrictID": "7403",
+            "DistrictThai": "อำเภอบ้านแพ้ว",
+            "DistrictEng": "Amphoe Ban Phaeo"
+        },
+        {
+            "ProvinceID": "75",
+            "DistrictID": "7501",
+            "DistrictThai": "อำเภอเมืองสมุทรสงคราม",
+            "DistrictEng": "Amphoe Mueang Samut Songkhram"
+        },
+        {
+            "ProvinceID": "75",
+            "DistrictID": "7502",
+            "DistrictThai": "อำเภอบางคนที",
+            "DistrictEng": "Amphoe Bang Khonthi"
+        },
+        {
+            "ProvinceID": "75",
+            "DistrictID": "7503",
+            "DistrictThai": "อำเภออัมพวา",
+            "DistrictEng": "Amphoe Amphawa"
+        },
+        {
+            "ProvinceID": "76",
+            "DistrictID": "7601",
+            "DistrictThai": "อำเภอเมืองเพชรบุรี",
+            "DistrictEng": "Amphoe Mueang Phetchaburi"
+        },
+        {
+            "ProvinceID": "76",
+            "DistrictID": "7602",
+            "DistrictThai": "อำเภอเขาย้อย",
+            "DistrictEng": "Amphoe Khao Yoi"
+        },
+        {
+            "ProvinceID": "76",
+            "DistrictID": "7603",
+            "DistrictThai": "อำเภอหนองหญ้าปล้อง",
+            "DistrictEng": "Amphoe Nong Ya Plong"
+        },
+        {
+            "ProvinceID": "76",
+            "DistrictID": "7604",
+            "DistrictThai": "อำเภอชะอำ",
+            "DistrictEng": "Amphoe Cha-am"
+        },
+        {
+            "ProvinceID": "76",
+            "DistrictID": "7605",
+            "DistrictThai": "อำเภอท่ายาง",
+            "DistrictEng": "Amphoe Tha Yang"
+        },
+        {
+            "ProvinceID": "76",
+            "DistrictID": "7606",
+            "DistrictThai": "อำเภอบ้านลาด",
+            "DistrictEng": "Amphoe Ban Lat"
+        },
+        {
+            "ProvinceID": "76",
+            "DistrictID": "7607",
+            "DistrictThai": "อำเภอบ้านแหลม",
+            "DistrictEng": "Amphoe Ban Laem"
+        },
+        {
+            "ProvinceID": "76",
+            "DistrictID": "7608",
+            "DistrictThai": "อำเภอแก่งกระจาน",
+            "DistrictEng": "Amphoe Kaeng Krachan"
+        },
+        {
+            "ProvinceID": "77",
+            "DistrictID": "7701",
+            "DistrictThai": "อำเภอเมืองประจวบคีรีขันธ์",
+            "DistrictEng": "Amphoe Mueang Prachuap Khiri Khan"
+        },
+        {
+            "ProvinceID": "77",
+            "DistrictID": "7702",
+            "DistrictThai": "อำเภอกุยบุรี",
+            "DistrictEng": "Amphoe Kui Buri"
+        },
+        {
+            "ProvinceID": "77",
+            "DistrictID": "7703",
+            "DistrictThai": "อำเภอทับสะแก",
+            "DistrictEng": "Amphoe Thap Sakae"
+        },
+        {
+            "ProvinceID": "77",
+            "DistrictID": "7704",
+            "DistrictThai": "อำเภอบางสะพาน",
+            "DistrictEng": "Amphoe Bang Saphan"
+        },
+        {
+            "ProvinceID": "77",
+            "DistrictID": "7705",
+            "DistrictThai": "อำเภอบางสะพานน้อย",
+            "DistrictEng": "Amphoe Bang Saphan Noi"
+        },
+        {
+            "ProvinceID": "77",
+            "DistrictID": "7706",
+            "DistrictThai": "อำเภอปราณบุรี",
+            "DistrictEng": "Amphoe Pran Buri"
+        },
+        {
+            "ProvinceID": "77",
+            "DistrictID": "7707",
+            "DistrictThai": "อำเภอหัวหิน",
+            "DistrictEng": "Amphoe Hua Hin"
+        },
+        {
+            "ProvinceID": "77",
+            "DistrictID": "7708",
+            "DistrictThai": "อำเภอสามร้อยยอด",
+            "DistrictEng": "Amphoe Sam Roi Yot"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8001",
+            "DistrictThai": "อำเภอเมืองนครศรีธรรมราช",
+            "DistrictEng": "Amphoe Mueang Nakhon Si Thammarat"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8002",
+            "DistrictThai": "อำเภอพรหมคีรี",
+            "DistrictEng": "Amphoe Phrom Khiri"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8003",
+            "DistrictThai": "อำเภอลานสกา",
+            "DistrictEng": "Amphoe Lan Saka"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8004",
+            "DistrictThai": "อำเภอฉวาง",
+            "DistrictEng": "Amphoe Chawang"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8005",
+            "DistrictThai": "อำเภอพิปูน",
+            "DistrictEng": "Amphoe Phipun"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8006",
+            "DistrictThai": "อำเภอเชียรใหญ่",
+            "DistrictEng": "Amphoe Chian Yai"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8007",
+            "DistrictThai": "อำเภอชะอวด",
+            "DistrictEng": "Amphoe Cha-uat"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8008",
+            "DistrictThai": "อำเภอท่าศาลา",
+            "DistrictEng": "Amphoe Tha Sala"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8009",
+            "DistrictThai": "อำเภอทุ่งสง",
+            "DistrictEng": "Amphoe Thung Song"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8010",
+            "DistrictThai": "อำเภอนาบอน",
+            "DistrictEng": "Amphoe Na Bon"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8011",
+            "DistrictThai": "อำเภอทุ่งใหญ่",
+            "DistrictEng": "Amphoe Thung Yai"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8012",
+            "DistrictThai": "อำเภอปากพนัง",
+            "DistrictEng": "Amphoe Pak Phanang"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8013",
+            "DistrictThai": "อำเภอร่อนพิบูลย์",
+            "DistrictEng": "Amphoe Ron Phibun"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8014",
+            "DistrictThai": "อำเภอสิชล",
+            "DistrictEng": "Amphoe Sichon"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8015",
+            "DistrictThai": "อำเภอขนอม",
+            "DistrictEng": "Amphoe Khanom"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8016",
+            "DistrictThai": "อำเภอหัวไทร",
+            "DistrictEng": "Amphoe Hua Sai"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8017",
+            "DistrictThai": "อำเภอบางขัน",
+            "DistrictEng": "Amphoe Bang Khan"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8018",
+            "DistrictThai": "อำเภอถ้ำพรรณรา",
+            "DistrictEng": "Amphoe Tham Phannara"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8019",
+            "DistrictThai": "อำเภอจุฬาภรณ์",
+            "DistrictEng": "Amphoe Chulabhorn"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8020",
+            "DistrictThai": "อำเภอพระพรหม",
+            "DistrictEng": "Amphoe Phra Phrom"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8021",
+            "DistrictThai": "อำเภอนบพิตำ",
+            "DistrictEng": "Amphoe Nopphitam"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8022",
+            "DistrictThai": "อำเภอช้างกลาง",
+            "DistrictEng": "Amphoe Chang Klang"
+        },
+        {
+            "ProvinceID": "80",
+            "DistrictID": "8023",
+            "DistrictThai": "อำเภอเฉลิมพระเกียรติ",
+            "DistrictEng": "Amphoe Chaloem Phra Kiat"
+        },
+        {
+            "ProvinceID": "81",
+            "DistrictID": "8101",
+            "DistrictThai": "อำเภอเมืองกระบี่",
+            "DistrictEng": "Amphoe Mueang Krabi"
+        },
+        {
+            "ProvinceID": "81",
+            "DistrictID": "8102",
+            "DistrictThai": "อำเภอเขาพนม",
+            "DistrictEng": "Amphoe Khao Phanom"
+        },
+        {
+            "ProvinceID": "81",
+            "DistrictID": "8103",
+            "DistrictThai": "อำเภอเกาะลันตา",
+            "DistrictEng": "Amphoe Ko Lanta"
+        },
+        {
+            "ProvinceID": "81",
+            "DistrictID": "8104",
+            "DistrictThai": "อำเภอคลองท่อม",
+            "DistrictEng": "Amphoe Khlong Thom"
+        },
+        {
+            "ProvinceID": "81",
+            "DistrictID": "8105",
+            "DistrictThai": "อำเภออ่าวลึก",
+            "DistrictEng": "Amphoe Ao Luek"
+        },
+        {
+            "ProvinceID": "81",
+            "DistrictID": "8106",
+            "DistrictThai": "อำเภอปลายพระยา",
+            "DistrictEng": "Amphoe Plai Phraya"
+        },
+        {
+            "ProvinceID": "81",
+            "DistrictID": "8107",
+            "DistrictThai": "อำเภอลำทับ",
+            "DistrictEng": "Amphoe Lam Thap"
+        },
+        {
+            "ProvinceID": "81",
+            "DistrictID": "8108",
+            "DistrictThai": "อำเภอเหนือคลอง",
+            "DistrictEng": "Amphoe Nuea Khlong"
+        },
+        {
+            "ProvinceID": "82",
+            "DistrictID": "8201",
+            "DistrictThai": "อำเภอเมืองพังงา",
+            "DistrictEng": "Amphoe Mueang Phang-nga"
+        },
+        {
+            "ProvinceID": "82",
+            "DistrictID": "8202",
+            "DistrictThai": "อำเภอเกาะยาว",
+            "DistrictEng": "Amphoe Ko Yao"
+        },
+        {
+            "ProvinceID": "82",
+            "DistrictID": "8203",
+            "DistrictThai": "อำเภอกะปง",
+            "DistrictEng": "Amphoe Kapong"
+        },
+        {
+            "ProvinceID": "82",
+            "DistrictID": "8204",
+            "DistrictThai": "อำเภอตะกั่วทุ่ง",
+            "DistrictEng": "Amphoe Takua Thung"
+        },
+        {
+            "ProvinceID": "82",
+            "DistrictID": "8205",
+            "DistrictThai": "อำเภอตะกั่วป่า",
+            "DistrictEng": "Amphoe Takua Pa"
+        },
+        {
+            "ProvinceID": "82",
+            "DistrictID": "8206",
+            "DistrictThai": "อำเภอคุระบุรี",
+            "DistrictEng": "Amphoe Khura Buri"
+        },
+        {
+            "ProvinceID": "82",
+            "DistrictID": "8207",
+            "DistrictThai": "อำเภอทับปุด",
+            "DistrictEng": "Amphoe Thap Put"
+        },
+        {
+            "ProvinceID": "82",
+            "DistrictID": "8208",
+            "DistrictThai": "อำเภอท้ายเหมือง",
+            "DistrictEng": "Amphoe Thai Mueang"
+        },
+        {
+            "ProvinceID": "83",
+            "DistrictID": "8301",
+            "DistrictThai": "อำเภอเมืองภูเก็ต",
+            "DistrictEng": "Amphoe Mueang Phuket"
+        },
+        {
+            "ProvinceID": "83",
+            "DistrictID": "8302",
+            "DistrictThai": "อำเภอกะทู้",
+            "DistrictEng": "Amphoe Kathu"
+        },
+        {
+            "ProvinceID": "83",
+            "DistrictID": "8303",
+            "DistrictThai": "อำเภอถลาง",
+            "DistrictEng": "Amphoe Thalang"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8401",
+            "DistrictThai": "อำเภอเมืองสุราษฎร์ธานี",
+            "DistrictEng": "Amphoe Mueang Surat Thani"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8402",
+            "DistrictThai": "อำเภอกาญจนดิษฐ์",
+            "DistrictEng": "Amphoe Kanchanadit"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8403",
+            "DistrictThai": "อำเภอดอนสัก",
+            "DistrictEng": "Amphoe Don Sak"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8404",
+            "DistrictThai": "อำเภอเกาะสมุย",
+            "DistrictEng": "Amphoe Ko Samui"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8405",
+            "DistrictThai": "อำเภอเกาะพะงัน",
+            "DistrictEng": "Amphoe Ko Pha-ngan"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8406",
+            "DistrictThai": "อำเภอไชยา",
+            "DistrictEng": "Amphoe Chaiya"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8407",
+            "DistrictThai": "อำเภอท่าชนะ",
+            "DistrictEng": "Amphoe Tha Chana"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8408",
+            "DistrictThai": "อำเภอคีรีรัฐนิคม",
+            "DistrictEng": "Amphoe Khiri Rat Nikhom"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8409",
+            "DistrictThai": "อำเภอบ้านตาขุน",
+            "DistrictEng": "Amphoe Ban Ta Khun"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8410",
+            "DistrictThai": "อำเภอพนม",
+            "DistrictEng": "Amphoe Phanom"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8411",
+            "DistrictThai": "อำเภอท่าฉาง",
+            "DistrictEng": "Amphoe Tha Chang"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8412",
+            "DistrictThai": "อำเภอบ้านนาสาร",
+            "DistrictEng": "Amphoe Ban Na San"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8413",
+            "DistrictThai": "อำเภอบ้านนาเดิม",
+            "DistrictEng": "Amphoe Ban Na Doem"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8414",
+            "DistrictThai": "อำเภอเคียนซา",
+            "DistrictEng": "Amphoe Khian Sa"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8415",
+            "DistrictThai": "อำเภอเวียงสระ",
+            "DistrictEng": "Amphoe Wiang Sa"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8416",
+            "DistrictThai": "อำเภอพระแสง",
+            "DistrictEng": "Amphoe Phrasaeng"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8417",
+            "DistrictThai": "อำเภอพุนพิน",
+            "DistrictEng": "Amphoe Phunphin"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8418",
+            "DistrictThai": "อำเภอชัยบุรี",
+            "DistrictEng": "Amphoe Chai Buri"
+        },
+        {
+            "ProvinceID": "84",
+            "DistrictID": "8419",
+            "DistrictThai": "อำเภอวิภาวดี",
+            "DistrictEng": "Amphoe Vibhavadi"
+        },
+        {
+            "ProvinceID": "85",
+            "DistrictID": "8501",
+            "DistrictThai": "อำเภอเมืองระนอง",
+            "DistrictEng": "Amphoe Mueang Ranong"
+        },
+        {
+            "ProvinceID": "85",
+            "DistrictID": "8502",
+            "DistrictThai": "อำเภอละอุ่น",
+            "DistrictEng": "Amphoe La-un"
+        },
+        {
+            "ProvinceID": "85",
+            "DistrictID": "8503",
+            "DistrictThai": "อำเภอกะเปอร์",
+            "DistrictEng": "Amphoe Kapoe"
+        },
+        {
+            "ProvinceID": "85",
+            "DistrictID": "8504",
+            "DistrictThai": "อำเภอกระบุรี",
+            "DistrictEng": "Amphoe Kra Buri"
+        },
+        {
+            "ProvinceID": "85",
+            "DistrictID": "8505",
+            "DistrictThai": "อำเภอสุขสำราญ",
+            "DistrictEng": "Amphoe Suk Samran"
+        },
+        {
+            "ProvinceID": "86",
+            "DistrictID": "8601",
+            "DistrictThai": "อำเภอเมืองชุมพร",
+            "DistrictEng": "Amphoe Mueang Chumphon"
+        },
+        {
+            "ProvinceID": "86",
+            "DistrictID": "8602",
+            "DistrictThai": "อำเภอท่าแซะ",
+            "DistrictEng": "Amphoe Tha Sae"
+        },
+        {
+            "ProvinceID": "86",
+            "DistrictID": "8603",
+            "DistrictThai": "อำเภอปะทิว",
+            "DistrictEng": "Amphoe Pathio"
+        },
+        {
+            "ProvinceID": "86",
+            "DistrictID": "8604",
+            "DistrictThai": "อำเภอหลังสวน",
+            "DistrictEng": "Amphoe Lang Suan"
+        },
+        {
+            "ProvinceID": "86",
+            "DistrictID": "8605",
+            "DistrictThai": "อำเภอละแม",
+            "DistrictEng": "Amphoe Lamae"
+        },
+        {
+            "ProvinceID": "86",
+            "DistrictID": "8606",
+            "DistrictThai": "อำเภอพะโต๊ะ",
+            "DistrictEng": "Amphoe Phato"
+        },
+        {
+            "ProvinceID": "86",
+            "DistrictID": "8607",
+            "DistrictThai": "อำเภอสวี",
+            "DistrictEng": "Amphoe Sawi"
+        },
+        {
+            "ProvinceID": "86",
+            "DistrictID": "8608",
+            "DistrictThai": "อำเภอทุ่งตะโก",
+            "DistrictEng": "Amphoe Thung Tako"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9001",
+            "DistrictThai": "อำเภอเมืองสงขลา",
+            "DistrictEng": "Amphoe Mueang Songkhla"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9002",
+            "DistrictThai": "อำเภอสทิงพระ",
+            "DistrictEng": "Amphoe Sathing Phra"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9003",
+            "DistrictThai": "อำเภอจะนะ",
+            "DistrictEng": "Amphoe Chana"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9004",
+            "DistrictThai": "อำเภอนาทวี",
+            "DistrictEng": "Amphoe Na Thawi"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9005",
+            "DistrictThai": "อำเภอเทพา",
+            "DistrictEng": "Amphoe Thepha"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9006",
+            "DistrictThai": "อำเภอสะบ้าย้อย",
+            "DistrictEng": "Amphoe Saba Yoi"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9007",
+            "DistrictThai": "อำเภอระโนด",
+            "DistrictEng": "Amphoe Ranot"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9008",
+            "DistrictThai": "อำเภอกระแสสินธุ์",
+            "DistrictEng": "Amphoe Krasae Sin"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9009",
+            "DistrictThai": "อำเภอรัตภูมิ",
+            "DistrictEng": "Amphoe Rattaphum"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9010",
+            "DistrictThai": "อำเภอสะเดา",
+            "DistrictEng": "Amphoe Sadao"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9011",
+            "DistrictThai": "อำเภอหาดใหญ่",
+            "DistrictEng": "Amphoe Hat Yai"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9012",
+            "DistrictThai": "อำเภอนาหม่อม",
+            "DistrictEng": "Amphoe Na Mom"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9013",
+            "DistrictThai": "อำเภอควนเนียง",
+            "DistrictEng": "Amphoe Khuan Niang"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9014",
+            "DistrictThai": "อำเภอบางกล่ำ",
+            "DistrictEng": "Amphoe Bang Klam"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9015",
+            "DistrictThai": "อำเภอสิงหนคร",
+            "DistrictEng": "Amphoe Singhanakhon"
+        },
+        {
+            "ProvinceID": "90",
+            "DistrictID": "9016",
+            "DistrictThai": "อำเภอคลองหอยโข่ง",
+            "DistrictEng": "Amphoe Khlong Hoi Khong"
+        },
+        {
+            "ProvinceID": "91",
+            "DistrictID": "9101",
+            "DistrictThai": "อำเภอเมืองสตูล",
+            "DistrictEng": "Amphoe Mueang Satun"
+        },
+        {
+            "ProvinceID": "91",
+            "DistrictID": "9102",
+            "DistrictThai": "อำเภอควนโดน",
+            "DistrictEng": "Amphoe Khuan Don"
+        },
+        {
+            "ProvinceID": "91",
+            "DistrictID": "9103",
+            "DistrictThai": "อำเภอควนกาหลง",
+            "DistrictEng": "Amphoe Khuan Kalong"
+        },
+        {
+            "ProvinceID": "91",
+            "DistrictID": "9104",
+            "DistrictThai": "อำเภอท่าแพ",
+            "DistrictEng": "Amphoe Tha Phae"
+        },
+        {
+            "ProvinceID": "91",
+            "DistrictID": "9105",
+            "DistrictThai": "อำเภอละงู",
+            "DistrictEng": "Amphoe La-ngu"
+        },
+        {
+            "ProvinceID": "91",
+            "DistrictID": "9106",
+            "DistrictThai": "อำเภอทุ่งหว้า",
+            "DistrictEng": "Amphoe Thung Wa"
+        },
+        {
+            "ProvinceID": "91",
+            "DistrictID": "9107",
+            "DistrictThai": "อำเภอมะนัง",
+            "DistrictEng": "Amphoe Manang"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9201",
+            "DistrictThai": "อำเภอเมืองตรัง",
+            "DistrictEng": "Amphoe Mueang Trang"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9202",
+            "DistrictThai": "อำเภอกันตัง",
+            "DistrictEng": "Amphoe Kantang"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9203",
+            "DistrictThai": "อำเภอย่านตาขาว",
+            "DistrictEng": "Amphoe Yan Ta Khao"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9204",
+            "DistrictThai": "อำเภอปะเหลียน",
+            "DistrictEng": "Amphoe Palian"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9205",
+            "DistrictThai": "อำเภอสิเกา",
+            "DistrictEng": "Amphoe Sikao"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9206",
+            "DistrictThai": "อำเภอห้วยยอด",
+            "DistrictEng": "Amphoe Huai Yot"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9207",
+            "DistrictThai": "อำเภอวังวิเศษ",
+            "DistrictEng": "Amphoe Wang Wiset"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9208",
+            "DistrictThai": "อำเภอนาโยง",
+            "DistrictEng": "Amphoe Na Yong"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9209",
+            "DistrictThai": "อำเภอรัษฎา",
+            "DistrictEng": "Amphoe Ratsada"
+        },
+        {
+            "ProvinceID": "92",
+            "DistrictID": "9210",
+            "DistrictThai": "อำเภอหาดสำราญ",
+            "DistrictEng": "Amphoe Hat Samran"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9301",
+            "DistrictThai": "อำเภอเมืองพัทลุง",
+            "DistrictEng": "Amphoe Mueang Phatthalung"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9302",
+            "DistrictThai": "อำเภอกงหรา",
+            "DistrictEng": "Amphoe Kong Ra"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9303",
+            "DistrictThai": "อำเภอเขาชัยสน",
+            "DistrictEng": "Amphoe Khao Chaison"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9304",
+            "DistrictThai": "อำเภอตะโหมด",
+            "DistrictEng": "Amphoe Tamot"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9305",
+            "DistrictThai": "อำเภอควนขนุน",
+            "DistrictEng": "Amphoe Khuan Khanun"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9306",
+            "DistrictThai": "อำเภอปากพะยูน",
+            "DistrictEng": "Amphoe Pak Phayun"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9307",
+            "DistrictThai": "อำเภอศรีบรรพต",
+            "DistrictEng": "Amphoe Si Banphot"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9308",
+            "DistrictThai": "อำเภอป่าบอน",
+            "DistrictEng": "Amphoe Pa Bon"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9309",
+            "DistrictThai": "อำเภอบางแก้ว",
+            "DistrictEng": "Amphoe Bang Kaeo"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9310",
+            "DistrictThai": "อำเภอป่าพะยอม",
+            "DistrictEng": "Amphoe Pa Phayom"
+        },
+        {
+            "ProvinceID": "93",
+            "DistrictID": "9311",
+            "DistrictThai": "อำเภอศรีนครินทร์",
+            "DistrictEng": "Amphoe Srinagarindra"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9401",
+            "DistrictThai": "อำเภอเมืองปัตตานี",
+            "DistrictEng": "Amphoe Mueang Pattani"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9402",
+            "DistrictThai": "อำเภอโคกโพธิ์",
+            "DistrictEng": "Amphoe Khok Pho"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9403",
+            "DistrictThai": "อำเภอหนองจิก",
+            "DistrictEng": "Amphoe Nong Chik"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9404",
+            "DistrictThai": "อำเภอปะนาเระ",
+            "DistrictEng": "Amphoe Panare"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9405",
+            "DistrictThai": "อำเภอมายอ",
+            "DistrictEng": "Amphoe Mayo"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9406",
+            "DistrictThai": "อำเภอทุ่งยางแดง",
+            "DistrictEng": "Amphoe Thung Yang Daeng"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9407",
+            "DistrictThai": "อำเภอสายบุรี",
+            "DistrictEng": "Amphoe Sai Buri"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9408",
+            "DistrictThai": "อำเภอไม้แก่น",
+            "DistrictEng": "Amphoe Mai Kaen"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9409",
+            "DistrictThai": "อำเภอยะหริ่ง",
+            "DistrictEng": "Amphoe Yaring"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9410",
+            "DistrictThai": "อำเภอยะรัง",
+            "DistrictEng": "Amphoe Yarang"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9411",
+            "DistrictThai": "อำเภอกะพ้อ",
+            "DistrictEng": "Amphoe Kapho"
+        },
+        {
+            "ProvinceID": "94",
+            "DistrictID": "9412",
+            "DistrictThai": "อำเภอแม่ลาน",
+            "DistrictEng": "Amphoe Mae Lan"
+        },
+        {
+            "ProvinceID": "95",
+            "DistrictID": "9501",
+            "DistrictThai": "อำเภอเมืองยะลา",
+            "DistrictEng": "Amphoe Mueang Yala"
+        },
+        {
+            "ProvinceID": "95",
+            "DistrictID": "9502",
+            "DistrictThai": "อำเภอเบตง",
+            "DistrictEng": "Amphoe Betong"
+        },
+        {
+            "ProvinceID": "95",
+            "DistrictID": "9503",
+            "DistrictThai": "อำเภอบันนังสตา",
+            "DistrictEng": "Amphoe Bannang Sata"
+        },
+        {
+            "ProvinceID": "95",
+            "DistrictID": "9504",
+            "DistrictThai": "อำเภอธารโต",
+            "DistrictEng": "Amphoe Than To"
+        },
+        {
+            "ProvinceID": "95",
+            "DistrictID": "9505",
+            "DistrictThai": "อำเภอยะหา",
+            "DistrictEng": "Amphoe Yaha"
+        },
+        {
+            "ProvinceID": "95",
+            "DistrictID": "9506",
+            "DistrictThai": "อำเภอรามัน",
+            "DistrictEng": "Amphoe Raman"
+        },
+        {
+            "ProvinceID": "95",
+            "DistrictID": "9507",
+            "DistrictThai": "อำเภอกาบัง",
+            "DistrictEng": "Amphoe Kabang"
+        },
+        {
+            "ProvinceID": "95",
+            "DistrictID": "9508",
+            "DistrictThai": "อำเภอกรงปินัง",
+            "DistrictEng": "Amphoe Krong Pinang"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9601",
+            "DistrictThai": "อำเภอเมืองนราธิวาส",
+            "DistrictEng": "Amphoe Mueang Narathiwat"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9602",
+            "DistrictThai": "อำเภอตากใบ",
+            "DistrictEng": "Amphoe Tak Bai"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9603",
+            "DistrictThai": "อำเภอบาเจาะ",
+            "DistrictEng": "Amphoe Bacho"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9604",
+            "DistrictThai": "อำเภอยี่งอ",
+            "DistrictEng": "Amphoe Yi-ngo"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9605",
+            "DistrictThai": "อำเภอระแงะ",
+            "DistrictEng": "Amphoe Ra-ngae"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9606",
+            "DistrictThai": "อำเภอรือเสาะ",
+            "DistrictEng": "Amphoe Rueso"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9607",
+            "DistrictThai": "อำเภอศรีสาคร",
+            "DistrictEng": "Amphoe Si Sakhon"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9608",
+            "DistrictThai": "อำเภอแว้ง",
+            "DistrictEng": "Amphoe Waeng"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9609",
+            "DistrictThai": "อำเภอสุคิริน",
+            "DistrictEng": "Amphoe Sukhirin"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9610",
+            "DistrictThai": "อำเภอสุไหงโก-ลก",
+            "DistrictEng": "Amphoe Su-ngai Kolok"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9611",
+            "DistrictThai": "อำเภอสุไหงปาดี",
+            "DistrictEng": "Amphoe Su-ngai Padi"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9612",
+            "DistrictThai": "อำเภอจะแนะ",
+            "DistrictEng": "Amphoe Chanae"
+        },
+        {
+            "ProvinceID": "96",
+            "DistrictID": "9613",
+            "DistrictThai": "อำเภอเจาะไอร้อง",
+            "DistrictEng": "Amphoe Cho-airong"
+        }
+    ]
